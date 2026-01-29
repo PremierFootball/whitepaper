@@ -37,11 +37,13 @@ pie title Token Distribution
 
 > **Total Fundraising Target:** USD 3,000,000
 
-### Vesting Schedule
+### Release & Vesting Schedule
 
-- **Team tokens:** Long-term vesting schedule
-- **Founder round:** Gradual unlock over time
-- **Community & Public:** Immediate transferability
+| Category | Release Schedule |
+|----------|------------------|
+| **Team** | 12-month lockup, then 1/24 monthly over 24 months |
+| **Community (For Sale)** | 15.5% at TGE, 4.78% to treasury at month 1, then 1/47 of the remainder monthly over 47 months |
+| **Liquidity / Public** | Managed based on market demand and exchange requirements |
 
 ---
 

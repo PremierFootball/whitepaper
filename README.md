@@ -37,11 +37,8 @@ However, traditional football clubs lack transparency and accessible investment 
 The project starts with:
 
 - **Land available** for sports city development
-- **Professional team structure** ready to compete
-- **Founding team** with UEFA certifications and international experience
-- **Pathway to AUF registration** and CONMEBOL competition access
-
-This drastically reduces execution risk compared to purely speculative projects.
+- **Founding team** with UEFA certifications, international experience, and a multidisciplinary background driven by a deep passion for what we do.
+- **Pathway to professional competition**, with ongoing discussions with multiple clubs interested in joining the project.
 
 ---
 

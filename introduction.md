@@ -54,17 +54,17 @@ Token holders will have the right to:
 ### Key Resources
 
 The project already has:
-- ✅ **Land secured** (no cost)
-- ✅ **Complete technical and management team** requiring USD 200,000 annually
-- ✅ **Pathway to AUF registration**
+- **Land secured** (no cost)
+- **Complete technical and management team**
+- **Pathway to AUF registration**
 
 ### Capital Allocation
 
 | Category | Amount | Purpose |
 |----------|--------|---------|
 | **Sports City Construction** | USD 1,000,000 | Training fields, gym, performance center, locker rooms, medical facilities |
-| **Operations (5-year runway)** | USD 1,250,000 | Technical staff, management, player salaries, operational costs |
 | **Club Formation & Registration** | USD 200,000 | AUF registration, initial player contracts, competition fees, equipment |
+| **Operations (5-year runway)** | USD 1,250,000 | Technical staff, management, player salaries, operational costs |
 | **Strategic Reserve** | USD 550,000 | Operational buffer, emergency fund, contingencies |
 | **Token Liquidity** | USD 250,000 | Initial DEX liquidity pool |
 
@@ -74,13 +74,11 @@ The project already has:
 
 ## Realistic Horizon
 
-The project includes **5 years of full salary coverage** for the team, ensuring operational stability while building sports assets and revenue streams.
+The project includes **5 years of full coverage** for the team, ensuring operational stability while building sports assets and revenue streams.
 
 **Target:** Achieve operational self-sustainability in 24-36 months
 
 **Design:** Financial structure does not depend on hitting this target to survive
-
-This structure reduces execution risk and avoids forced sports decisions due to cash pressure.
 
 ---
 
