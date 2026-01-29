@@ -4,7 +4,7 @@ label: Welcome
 order: 1000
 ---
 
-# Premier Football Whitepaper
+# Premier Football Growth Whitepaper
 
 **Football Crypto Infrastructure – Uruguay**
 
@@ -48,8 +48,8 @@ This drastically reduces execution risk compared to purely speculative projects.
 ## What You'll Find Here
 
 - **[Introduction](introduction.md)** - Club structure, legal framework, and competitive model
-- **[Tokenomics](tokenomics.md)** - Token distribution, utility, and economics
 - **[Technology](technology.md)** - Infrastructure and technical architecture
+- **[Tokenomics](tokenomics.md)** - Token distribution, utility, and economics
 - **[Revenue Model](revenue-model.md)** - Income sources from club operations and player transfers
 - **[Governance](governance.md)** - DAO structure and decision-making
 - **[Team](team.md)** - Founding team and football expertise
