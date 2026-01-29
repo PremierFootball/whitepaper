@@ -64,17 +64,6 @@ The DAO **does not** make decisions about:
 
 ### Proposal Process
 
-```mermaid
-graph LR
-    A[Proposal Submitted] --> B[Community Discussion]
-    B --> C[Voting Period]
-    C --> D{Quorum Met?}
-    D -->|Yes| E{Majority Approval?}
-    D -->|No| F[Proposal Fails]
-    E -->|Yes| G[Proposal Passes]
-    E -->|No| F
-    G --> H[Implementation]
-```
 
 ### Voting Requirements
 

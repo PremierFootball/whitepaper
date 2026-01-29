@@ -11,10 +11,10 @@ order: 730
 The Premier Football project is led by professionals with **UEFA certifications** and **international experience** as players, coaches, and analysts.
 
 Our team combines:
-- ✅ **Technical Expertise** - UEFA A and B certified coaches
-- ✅ **International Experience** - Professional careers in multiple countries
-- ✅ **Business Acumen** - Track record in project development and capital raising
-- ✅ **Local Knowledge** - Deep understanding of Uruguayan football ecosystem
+- **Technical Expertise** - UEFA A and B certified coaches
+- **International Experience** - Professional careers in multiple countries
+- **Business Acumen** - Track record in project development and capital raising
+- **Local Knowledge** - Deep understanding of Uruguayan football ecosystem
 
 ---
 
@@ -97,28 +97,6 @@ Our team combines:
 
 ---
 
-## Advisory Board
-
-### Sports Advisors
-
-- Former professional players with international careers
-- Experienced club directors and sporting directors
-- FIFA-certified agents and player representatives
-
-### Business Advisors
-
-- Crypto and blockchain experts
-- Sports business consultants
-- Legal and regulatory specialists
-
-### Technical Advisors
-
-- Smart contract auditors
-- Tokenomics designers
-- DeFi protocol developers
-
----
-
 ## Transparency & Accountability
 
 ### Public Commitments
@@ -147,15 +125,4 @@ Our team combines:
 Our team is committed to creating sustainable value over years, not months. We're building a real business with real assets, not a speculative token play.
 !!!
 
----
 
-## Join Our Team
-
-As the project grows, we'll be hiring additional talent:
-
-- **Coaches & Trainers** - Expand our technical staff
-- **Scouts** - Build our talent identification network
-- **Operations Staff** - Support facility management
-- **Community Managers** - Engage with token holders
-
-Opportunities will be posted on our website and social channels.

@@ -143,26 +143,6 @@ We prioritize **execution over hype** and **substance over speed**.
 
 ## Timeline Visualization
 
-```mermaid
-gantt
-    title Premier Football Development Timeline
-    dateFormat YYYY-MM
-    section Foundation
-    Whitepaper & Team        :done, 2026-01, 2026-03
-    Token Sale Rounds        :active, 2026-02, 2026-06
-    Legal & Partnerships     :2026-04, 2026-07
-    section Construction
-    Site Preparation         :2026-07, 2026-10
-    Facility Construction    :2026-09, 2027-06
-    Equipment Installation   :2027-04, 2027-07
-    section Operations
-    Facility Launch          :2027-07, 2027-09
-    Player Development       :2027-08, 2029-12
-    Revenue Generation       :2028-01, 2030-12
-    section Scaling
-    Expansion Planning       :2029-01, 2030-06
-    Regional Platform        :2030-01, 2032-12
-```
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2026-01-29T17:11:00Z",
+  "created": "2026-01-29T17:19:00Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -33,7 +33,8 @@
       "path": "resources/js/lunr.js"
     },
     {
-      "path": "resources/js/mermaid.js"
+      "path": "resources/js/mermaid.js",
+      "old": true
     },
     {
       "path": "resources/js/retype.js"

@@ -12,11 +12,6 @@ order: 800
 
 ### Distribution
 
-```mermaid
-pie title Token Distribution
-    "Community (For Sale)" : 60
-    "Team & Early Strategic Partners" : 40
-```
 
 | Category | Allocation | Notes |
 |----------|-----------|-------|
@@ -97,23 +92,6 @@ pie title Token Distribution
 
 ### Distribution Model
 
-```mermaid
-graph LR
-    A[<b>Project Revenues</b>] --> B{Net Income}
-    B -- "20-30%" --> C(<b>Token Holder Pool</b>)
-    B -- "70-80%" --> D{<b>Ecosystem Growth</b>}
-    
-    C --> C1[Annual Distributions]
-    
-    D --> D1[AUF Competition Costs]
-    D --> D2[Player Development]
-    D --> D3[Infrastructure Maint.]
-    D --> D4[Team Salaries]
-    
-    style A fill:#003366,stroke:#00ccff,stroke-width:2px,color:#fff
-    style C fill:#004d00,stroke:#00ff00,stroke-width:2px,color:#fff
-    style D fill:#4d0000,stroke:#ff0000,stroke-width:2px,color:#fff
-```
 
 ---
 
