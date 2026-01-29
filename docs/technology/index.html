@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/whitepaper">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.823011812189">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.823021858641">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../resources/css/retype.css?v=3.11.0.823011812189" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.11.0.823021858641" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.823011812189" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.823021858641" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.823011812189" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.823021858641" data-turbo-eval="false" defer></script>
     <script id="mermaid-js" data-cfasync="false" src="../resources/js/mermaid.js?v=3.11.0" defer></script>
 </head>
 <body>
@@ -52,7 +52,11 @@
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
                         <a id="retype-branding-logo" href="../" class="flex items-center leading-snug text-xl">
-                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Premier Football Whitepaper</span>
+                            <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../static/logo.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../static/logo.png">
+                            </span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Premier Football</span>
                         </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">PFG</span>
                     </div>
         
@@ -64,7 +68,10 @@
                     <nav id="retype-header-nav" class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">Getting Started</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://premierfootball.com">Website</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">whitepaper</a>
                             </li>
         
                         </ul>
@@ -141,7 +148,10 @@
                             <nav>
                                 <ul class="flex flex-wrap justify-center items-center">
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">Getting Started</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://premierfootball.com">Website</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">whitepaper</a>
                                     </li>
             
                                 </ul>
@@ -225,18 +235,24 @@
     </h3>
 </doc-anchor-target>
 <div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre translate="no" class="mermaid w-full">graph TB
-    A[Token Contract] --&gt; B[ERC-20 Standard]
-    C[Revenue Pool Contract] --&gt; D[Distribution Logic]
-    E[Governance Contract] --&gt; F[DAO Voting]
-    G[Treasury Contract] --&gt; H[Multisig Control]
+    subgraph &quot;Blockchain Layer&quot;
+        A[&lt;b&gt;Token Contract&lt;/b&gt;] --&gt; B(ERC-20 Standard)
+        C[&lt;b&gt;Revenue Pool&lt;/b&gt;] --&gt; D(Distribution Logic)
+        E[&lt;b&gt;Governance&lt;/b&gt;] --&gt; F(DAO Voting)
+    end
     
-    A --&gt; I[Blockchain Network]
-    C --&gt; I
-    E --&gt; I
-    G --&gt; I
+    subgraph &quot;Interface Layer&quot;
+        J[Web App] --&gt; K[Web3 Provider]
+    end
     
-    J[Web Interface] --&gt; K[Web3 Integration]
-    K --&gt; I</pre></div>
+    K --&gt; A
+    K --&gt; C
+    K --&gt; E
+    
+    style A fill:#1a1a1a,stroke:#3399ff,stroke-width:2px,color:#fff
+    style C fill:#1a1a1a,stroke:#3399ff,stroke-width:2px,color:#fff
+    style E fill:#1a1a1a,stroke:#3399ff,stroke-width:2px,color:#fff
+    style J fill:#003366,stroke:#00ccff,stroke-width:2px,color:#fff</pre></div>
 <doc-anchor-target id="core-contracts">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#core-contracts">#</doc-anchor-trigger>
@@ -323,62 +339,6 @@
 <li>Off-chain: User profiles, analytics, media</li>
 <li>IPFS: Decentralized storage for metadata</li>
 </ul>
-<hr>
-<doc-anchor-target id="security-measures">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#security-measures">#</doc-anchor-trigger>
-        <span>Security Measures</span>
-    </h2>
-</doc-anchor-target>
-<doc-anchor-target id="smart-contract-security">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#smart-contract-security">#</doc-anchor-trigger>
-        <span>Smart Contract Security</span>
-    </h3>
-</doc-anchor-target>
-<p><span class="docs-emoji">&#x2705;</span> <strong>Multiple Audits</strong></p>
-<ul>
-<li>Reputable security firms</li>
-<li>Formal verification of critical functions</li>
-<li>Public audit reports</li>
-</ul>
-<p><span class="docs-emoji">&#x2705;</span> <strong>Bug Bounty Program</strong></p>
-<ul>
-<li>Incentivize white-hat hackers</li>
-<li>Ongoing security monitoring</li>
-<li>Rapid response to vulnerabilities</li>
-</ul>
-<p><span class="docs-emoji">&#x2705;</span> <strong>Gradual Rollout</strong></p>
-<ul>
-<li>Testnet deployment and testing</li>
-<li>Limited initial exposure</li>
-<li>Phased feature releases</li>
-</ul>
-<doc-anchor-target id="operational-security">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#operational-security">#</doc-anchor-trigger>
-        <span>Operational Security</span>
-    </h3>
-</doc-anchor-target>
-<p><span class="docs-emoji">&#x2705;</span> <strong>Multisig Treasury</strong></p>
-<ul>
-<li>Multiple signers required for fund movements</li>
-<li>Geographic and organizational diversity</li>
-<li>Time-locked transactions for large amounts</li>
-</ul>
-<p><span class="docs-emoji">&#x2705;</span> <strong>Access Controls</strong></p>
-<ul>
-<li>Role-based permissions</li>
-<li>Least privilege principle</li>
-<li>Regular security audits</li>
-</ul>
-<p><span class="docs-emoji">&#x2705;</span> <strong>Monitoring &amp; Alerts</strong></p>
-<ul>
-<li>Real-time transaction monitoring</li>
-<li>Anomaly detection</li>
-<li>Incident response procedures</li>
-</ul>
-<hr>
 <doc-anchor-target id="data--analytics">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#data--analytics">#</doc-anchor-trigger>
@@ -506,7 +466,7 @@
                                     <ul class="flex flex-wrap items-center text-sm">
                                     </ul>
                                 </div>
-                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2026. All rights reserved.</p></div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2026 Premier Football. All rights reserved.</p></div>
                             </footer>
                         </div>
                     </div>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/whitepaper">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.823011812189">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.823021858641">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,11 +31,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../resources/css/retype.css?v=3.11.0.823011812189" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.11.0.823021858641" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.823011812189" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.823021858641" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.823011812189" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.823021858641" data-turbo-eval="false" defer></script>
     <script id="mermaid-js" data-cfasync="false" src="../resources/js/mermaid.js?v=3.11.0" defer></script>
 </head>
 <body>
@@ -52,7 +52,11 @@
                 <div class="flex items-center justify-between h-full py-2 md:w-75">
                     <div class="flex items-center px-2 md:px-6">
                         <a id="retype-branding-logo" href="../" class="flex items-center leading-snug text-xl">
-                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Premier Football Whitepaper</span>
+                            <span class="w-10 mr-2 grow-0 shrink-0 overflow-hidden">
+                                <img class="max-h-10 dark:hidden md:inline-block" src="../static/logo.png">
+                                <img class="max-h-10 hidden dark:inline-block" src="../static/logo.png">
+                            </span>
+                            <span class="dark:text-white font-bold line-clamp-1 md:line-clamp-2">Premier Football</span>
                         </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">PFG</span>
                     </div>
         
@@ -64,7 +68,10 @@
                     <nav id="retype-header-nav" class="hidden md:flex">
                         <ul class="flex flex-col mb-4 md:pl-16 md:mb-0 md:flex-row md:items-center">
                             <li class="mr-6">
-                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">Getting Started</a>
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://premierfootball.com">Website</a>
+                            </li>
+                            <li class="mr-6">
+                                <a class="py-2 md:mb-0 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">whitepaper</a>
                             </li>
         
                         </ul>
@@ -141,7 +148,10 @@
                             <nav>
                                 <ul class="flex flex-wrap justify-center items-center">
                                     <li class="mr-6">
-                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">Getting Started</a>
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="https://premierfootball.com">Website</a>
+                                    </li>
+                                    <li class="mr-6">
+                                        <a class="block py-1 inline-flex items-center text-sm whitespace-nowrap transition-colors duration-200 ease-linear md:text-header-text font-header-text-weight hover:text-header-text-hover" href="../">whitepaper</a>
                                     </li>
             
                                 </ul>
@@ -185,8 +195,8 @@
     </h3>
 </doc-anchor-target>
 <div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre translate="no" class="mermaid w-full">pie title Token Distribution
-    &quot;For Sale (60%)&quot; : 60
-    &quot;Team &amp; Investors (40%)&quot; : 40</pre></div>
+    &quot;Community (For Sale)&quot; : 60
+    &quot;Team &amp; Early Strategic Partners&quot; : 40</pre></div>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -258,17 +268,36 @@
 <blockquote>
 <p><strong>Total Fundraising Target:</strong> USD 3,000,000</p>
 </blockquote>
-<doc-anchor-target id="vesting-schedule">
+<doc-anchor-target id="release--vesting-schedule">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#vesting-schedule">#</doc-anchor-trigger>
-        <span>Vesting Schedule</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#release--vesting-schedule">#</doc-anchor-trigger>
+        <span>Release &amp; Vesting Schedule</span>
     </h3>
 </doc-anchor-target>
-<ul>
-<li><strong>Team tokens:</strong> Long-term vesting schedule</li>
-<li><strong>Founder round:</strong> Gradual unlock over time</li>
-<li><strong>Community &amp; Public:</strong> Immediate transferability</li>
-</ul>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Category</th>
+<th>Release Schedule</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Team</strong></td>
+<td>12-month lockup, then 1/24 monthly over 24 months</td>
+</tr>
+<tr>
+<td><strong>Community (For Sale)</strong></td>
+<td>15.5% at TGE, 4.78% to treasury at month 1, then 1/47 of the remainder monthly over 47 months</td>
+</tr>
+<tr>
+<td><strong>Liquidity / Public</strong></td>
+<td>Managed based on market demand and exchange requirements</td>
+</tr>
+</tbody>
+</table>
+</div>
 <hr>
 <doc-anchor-target id="token-utility">
     <h2>
@@ -369,13 +398,20 @@
     </h3>
 </doc-anchor-target>
 <div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre translate="no" class="mermaid w-full">graph LR
-    A[Net Revenue] --&gt; B[20-30% to Token Holders]
-    A --&gt; C[70-80% to Operations &amp; Reinvestment]
-    B --&gt; D[Annual Distribution]
-    C --&gt; E[Facility Maintenance]
-    C --&gt; F[Team Salaries]
-    C --&gt; G[Player Development]
-    C --&gt; H[Growth Initiatives]</pre></div>
+    A[&lt;b&gt;Project Revenues&lt;/b&gt;] --&gt; B{Net Income}
+    B -- &quot;20-30%&quot; --&gt; C(&lt;b&gt;Token Holder Pool&lt;/b&gt;)
+    B -- &quot;70-80%&quot; --&gt; D{&lt;b&gt;Ecosystem Growth&lt;/b&gt;}
+    
+    C --&gt; C1[Annual Distributions]
+    
+    D --&gt; D1[AUF Competition Costs]
+    D --&gt; D2[Player Development]
+    D --&gt; D3[Infrastructure Maint.]
+    D --&gt; D4[Team Salaries]
+    
+    style A fill:#003366,stroke:#00ccff,stroke-width:2px,color:#fff
+    style C fill:#004d00,stroke:#00ff00,stroke-width:2px,color:#fff
+    style D fill:#4d0000,stroke:#ff0000,stroke-width:2px,color:#fff</pre></div>
 <hr>
 <doc-anchor-target id="token-value-drivers">
     <h2>
@@ -471,7 +507,7 @@
                                     <ul class="flex flex-wrap items-center text-sm">
                                     </ul>
                                 </div>
-                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2026. All rights reserved.</p></div>
+                                <div id="retype-copyright" class="print:justify-center py-2 text-footer-text font-footer-link-weight text-sm leading-relaxed"><p>© Copyright 2026 Premier Football. All rights reserved.</p></div>
                             </footer>
                         </div>
                     </div>

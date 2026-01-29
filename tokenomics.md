@@ -14,8 +14,8 @@ order: 800
 
 ```mermaid
 pie title Token Distribution
-    "For Sale (60%)" : 60
-    "Team & Investors (40%)" : 40
+    "Community (For Sale)" : 60
+    "Team & Early Strategic Partners" : 40
 ```
 
 | Category | Allocation | Notes |
@@ -99,13 +99,20 @@ pie title Token Distribution
 
 ```mermaid
 graph LR
-    A[Net Revenue] --> B[20-30% to Token Holders]
-    A --> C[70-80% to Operations & Reinvestment]
-    B --> D[Annual Distribution]
-    C --> E[Facility Maintenance]
-    C --> F[Team Salaries]
-    C --> G[Player Development]
-    C --> H[Growth Initiatives]
+    A[<b>Project Revenues</b>] --> B{Net Income}
+    B -- "20-30%" --> C(<b>Token Holder Pool</b>)
+    B -- "70-80%" --> D{<b>Ecosystem Growth</b>}
+    
+    C --> C1[Annual Distributions]
+    
+    D --> D1[AUF Competition Costs]
+    D --> D2[Player Development]
+    D --> D3[Infrastructure Maint.]
+    D --> D4[Team Salaries]
+    
+    style A fill:#003366,stroke:#00ccff,stroke-width:2px,color:#fff
+    style C fill:#004d00,stroke:#00ff00,stroke-width:2px,color:#fff
+    style D fill:#4d0000,stroke:#ff0000,stroke-width:2px,color:#fff
 ```
 
 ---

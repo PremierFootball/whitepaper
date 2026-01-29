@@ -16,27 +16,26 @@ Token holders participate in strategic decisions through a **Decentralized Auton
 
 ## DAO Decision Authority
 
-### What the DAO Controls ✅
+### What the DAO Controls 
 
 #### 1. Treasury Allocation
-- Approve major capital expenditures
+- Vote on strategic investments and major capital expenditures
 - Vote on budget allocations beyond operational baseline
-- Decide on strategic investments
 
 #### 2. Project Expansion
-- Approve new facility construction
+- Vote on new facility constructions
 - Vote on geographic expansion
-- Decide on new business lines
+- Vote on new business lines
 
 #### 3. Revenue Distribution
 - Set annual distribution percentage (within 20-30% range)
-- Approve special distributions
+- Vote on special distributions
 - Vote on buyback strategies
 
 #### 4. Strategic Partnerships
-- Approve major partnership agreements
+- Vote on major partnership agreements
 - Vote on equity or token swaps
-- Decide on strategic collaborations
+- Vote on strategic collaborations
 
 ---
 
@@ -50,7 +49,6 @@ The DAO **does not** make decisions about:
 - Coaching staff appointments
 - Training methodologies
 - Match strategies and tactics
-- Individual player contracts
 
 > **Rationale:** Sports decisions require professional expertise and cannot be effectively managed by committee vote. The founding team retains operational autonomy to ensure competitive performance.
 

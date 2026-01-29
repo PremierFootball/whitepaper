@@ -84,15 +84,20 @@ order: 750
 
 ```mermaid
 graph TD
-    A[Gross Revenue] --> B[Operating Costs]
-    B --> C[Net Revenue]
-    C --> D[20-30% Token Revenue Pool]
-    C --> E[70-80% Reinvestment & Operations]
-    D --> F[Annual Distribution to Holders]
-    E --> G[Facility Maintenance]
-    E --> H[Team Salaries]
-    E --> I[Player Development]
-    E --> J[Growth & Expansion]
+    A[<b>Total Club Revenue</b>] --> B{Net Income}
+    B -- "Distribution" --> C(<b>20-30% Revenue Pool</b>)
+    B -- "Reinvestment" --> D[<b>70-80% Club Ecosystem</b>]
+    
+    C --> C1[Annual Payouts to Holders]
+    
+    D --> D1[AUF Competition]
+    D --> D2[Youth Academy]
+    D --> D3[Facilities]
+    D --> D4[Professional Staff]
+    
+    style A fill:#001f3f,stroke:#3399ff,stroke-width:2px,color:#fff
+    style C fill:#004d00,stroke:#00ff00,stroke-width:2px,color:#fff
+    style D fill:#4d0000,stroke:#ff4d4d,stroke-width:2px,color:#fff
 ```
 
 ### Distribution Breakdown

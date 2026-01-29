@@ -42,18 +42,24 @@ order: 850
 
 ```mermaid
 graph TB
-    A[Token Contract] --> B[ERC-20 Standard]
-    C[Revenue Pool Contract] --> D[Distribution Logic]
-    E[Governance Contract] --> F[DAO Voting]
-    G[Treasury Contract] --> H[Multisig Control]
+    subgraph "Blockchain Layer"
+        A[<b>Token Contract</b>] --> B(ERC-20 Standard)
+        C[<b>Revenue Pool</b>] --> D(Distribution Logic)
+        E[<b>Governance</b>] --> F(DAO Voting)
+    end
     
-    A --> I[Blockchain Network]
-    C --> I
-    E --> I
-    G --> I
+    subgraph "Interface Layer"
+        J[Web App] --> K[Web3 Provider]
+    end
     
-    J[Web Interface] --> K[Web3 Integration]
-    K --> I
+    K --> A
+    K --> C
+    K --> E
+    
+    style A fill:#1a1a1a,stroke:#3399ff,stroke-width:2px,color:#fff
+    style C fill:#1a1a1a,stroke:#3399ff,stroke-width:2px,color:#fff
+    style E fill:#1a1a1a,stroke:#3399ff,stroke-width:2px,color:#fff
+    style J fill:#003366,stroke:#00ccff,stroke-width:2px,color:#fff
 ```
 
 ### Core Contracts

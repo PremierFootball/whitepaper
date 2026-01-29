@@ -2,12 +2,17 @@ input: .
 output: docs
 url: premierfootball.github.io/whitepaper/
 branding:
-  title: Premier Football Whitepaper
+  title: Premier Football
   label: PFG
+  logo: /static/logo.png
+color:
+  theme: dark
 links:
-- text: Getting Started
+- text: Website
+  link: https://premierfootball.com
+- text: whitepaper
   link: /
 meta:
   title: " - Premier Football Whitepaper"
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }} Premier Football. All rights reserved."
