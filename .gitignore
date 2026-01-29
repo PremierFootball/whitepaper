@@ -1,6 +1,5 @@
-# Retype build output (commented out to allow committing for GitHub Pages)
-# .retype/
-# *.retype
+# Retype build output is now in /docs for GitHub Pages
+# Don't ignore it so it can be committed
 
 # Node modules
 node_modules/
