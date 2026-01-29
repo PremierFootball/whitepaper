@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: # Add your production URL here
+branding:
+  title: Premier Football Whitepaper
+  label: PFG
+links:
+- text: Getting Started
+  link: /
+meta:
+  title: " - Premier Football Whitepaper"
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
