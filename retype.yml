@@ -6,8 +6,9 @@ branding:
   label: PFG
   logo: /static/logo.png
   favicon: /static/logo.png
-color:
-  theme: dark
+meta:
+  head: |
+    <link rel="stylesheet" href="/static/custom.css">
 links:
 - text: Website
   link: https://premierfootball.com

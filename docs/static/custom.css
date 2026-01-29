@@ -1,0 +1,13 @@
+/* Custom CSS to reduce branding font size */
+.retype-logo-title {
+    font-size: 0.2rem !important; /* Adjust as needed */
+}
+
+.retype-logo-label {
+    font-size: 0.8rem !important; /* Adjust as needed */
+}
+
+/* Optional: reduce the overall branding height if needed */
+.retype-logo {
+    height: 40px !important;
+}
