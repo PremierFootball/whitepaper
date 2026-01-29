@@ -1,6 +1,6 @@
 # Retype build output (commented out to allow committing for GitHub Pages)
 # .retype/
-*.retype
+# *.retype
 
 # Node modules
 node_modules/
