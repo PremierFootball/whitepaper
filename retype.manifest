@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2026-01-29T17:24:00Z",
+  "created": "2026-01-29T17:27:55Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -74,7 +74,8 @@
       "path": "sitemap.xml.gz"
     },
     {
-      "path": "static/custom.css"
+      "path": "static/custom.css",
+      "old": true
     },
     {
       "path": "static/logo.png"

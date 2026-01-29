@@ -2,16 +2,15 @@ input: .
 output: docs
 url: premierfootball.github.io/whitepaper/
 branding:
-  title: Premier Football Growth
-  label: PFG
+  title: PFG
+  label: Premier Football Growth
   logo: /static/logo.png
   favicon: /static/logo.png
-meta:
-  head: |
-    <link rel="stylesheet" href="/static/custom.css">
+color:
+  theme: dark
 links:
 - text: Website
-  link: https://premierfootball.com
+  link: https://premierfootball.github.io/web/
 - text: whitepaper
   link: /
 meta:
