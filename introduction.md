@@ -4,7 +4,7 @@ label: Introduction
 order: 900
 ---
 
-# Professional Football Club Structure
+# Professional Football Growth Club Structure
 
 ## Overview
 
