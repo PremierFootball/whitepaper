@@ -4,7 +4,13 @@ label: Introduction
 order: 900
 ---
 
-# Project Structure
+# Professional Football Club Structure
+
+## Overview
+
+This project establishes a **professional football club** in Uruguay that will compete in the Uruguayan Football Association (AUF) and pursue participation in CONMEBOL tournaments (Copa Sudamericana, Copa Libertadores).
+
+The club operates as a **tokenized entity**, allowing investors to participate in the economic success of a professional football team through transparent blockchain technology.
 
 ## Legal Framework
 
@@ -12,10 +18,11 @@ order: 900
 
 **Sociedad Anónima Deportiva (SAD)** - Sports Corporation constituted in Uruguay
 
-- The SAD is the operational and contractual entity of the project
-- The SAD holds **permanent usufruct** of the land to build the sports city
+- The SAD is the legal entity that owns and operates the professional football club
+- The SAD holds **permanent usufruct** of the land to build the sports city and training facilities
 - Usufruct includes rights to use, economic exploitation, and sub-contracting
-- The SAD signs agreements with clubs, players, and third parties
+- The SAD registers with AUF as a professional football club
+- The SAD manages all club operations: player contracts, competition registration, commercial activities
 
 ---
 
@@ -48,16 +55,17 @@ Token holders will have the right to:
 
 The project already has:
 - ✅ **Land secured** (no cost)
-- ✅ **Complete operational team** requiring USD 200,000 annually
+- ✅ **Complete technical and management team** requiring USD 200,000 annually
+- ✅ **Pathway to AUF registration**
 
 ### Capital Allocation
 
 | Category | Amount | Purpose |
 |----------|--------|---------|
-| **Sports City Construction** | USD 1,000,000 | Fields, gym, performance areas, locker rooms, basic infrastructure |
-| **Operations (5-year runway)** | USD 1,250,000 | Technical team & management (USD 200k/year), additional contracts (USD 50k/year) |
-| **Club Agreements & Early Revenue** | USD 200,000 | Partnerships, training rights, early-stage participation |
-| **Strategic Reserve** | USD 550,000 | Operational buffer and contingencies |
+| **Sports City Construction** | USD 1,000,000 | Training fields, gym, performance center, locker rooms, medical facilities |
+| **Operations (5-year runway)** | USD 1,250,000 | Technical staff, management, player salaries, operational costs |
+| **Club Formation & Registration** | USD 200,000 | AUF registration, initial player contracts, competition fees, equipment |
+| **Strategic Reserve** | USD 550,000 | Operational buffer, emergency fund, contingencies |
 | **Token Liquidity** | USD 250,000 | Initial DEX liquidity pool |
 
 > **Total:** USD 3,000,000
@@ -85,5 +93,5 @@ This structure reduces execution risk and avoids forced sports decisions due to 
 ---
 
 !!!important Key Differentiator
-Unlike purely speculative crypto projects, this initiative is backed by **real assets**, **professional expertise**, and a **proven market** (Uruguayan football talent export).
+Unlike purely speculative crypto projects, this initiative is backed by a **real professional football club**, **competitive operations in AUF and CONMEBOL**, and **proven revenue models** from player development and transfers in Uruguayan football.
 !!!
