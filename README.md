@@ -62,3 +62,4 @@ This drastically reduces execution risk compared to purely speculative projects.
 
 This project combines professional football, club ownership, and crypto responsibly. It's not a short-term promise, but a real value creation vehicle through a competitive football club with asymmetric return potential and strong anchoring in physical assets and sporting performance.
 !!!
+
