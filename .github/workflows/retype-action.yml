@@ -18,14 +18,24 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - uses: retypeapp/action-build@latest
+      - name: Build Retype
+        uses: retypeapp/action-build@latest
 
-      - name: Commit build output
+      - name: Commit and Push build output
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add docs
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update Retype build output [skip ci]"
-          git push
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Retype build output [skip ci]"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+
