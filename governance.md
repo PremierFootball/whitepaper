@@ -39,7 +39,7 @@ Token holders participate in strategic decisions through a **Decentralized Auton
 
 ---
 
-### What the DAO Does NOT Control ❌
+### What the DAO Does NOT Control
 
 #### Operational Sports Decisions
 

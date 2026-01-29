@@ -34,9 +34,9 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Initial DEX liquidity established
 
 ### Success Criteria
-✅ USD 3M raised  
-✅ Token launched and trading  
-✅ Legal entity operational  
+- USD 3M raised
+- Token launched and trading
+- Legal entity operational
 
 ---
 
@@ -60,9 +60,9 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Partnership agreements with 3-5 local clubs
 
 ### Success Criteria
-✅ Facility construction completed  
-✅ Full operational team in place  
-✅ Active partnerships established  
+- Facility construction completed
+- Full operational team in place
+- Active partnerships established
 
 ---
 
@@ -85,9 +85,9 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] First governance proposals and votes
 
 ### Success Criteria
-✅ Facility operational  
-✅ Players in development  
-✅ Revenue generation begins  
+- Facility operational
+- Players in development
+- Revenue generation begins
 
 ---
 
@@ -110,9 +110,9 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Facility expansion planning
 
 ### Success Criteria
-✅ Player transfers generating revenue  
-✅ Operational self-sustainability achieved  
-✅ Token holders receiving distributions  
+- Player transfers generating revenue
+- Operational self-sustainability achieved
+- Token holders receiving distributions
 
 ---
 
@@ -135,9 +135,9 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Potential for additional token utilities
 
 ### Success Criteria
-✅ Sustainable business model  
-✅ Regional leadership in player development  
-✅ Strong token holder returns  
+- Sustainable business model
+- Regional leadership in player development
+- Strong token holder returns
 
 ---
 

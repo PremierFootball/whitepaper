@@ -8,12 +8,12 @@ order: 730
 
 ## Overview
 
-The Premier Football project is led by professionals with **UEFA certifications** and **international experience** as players, coaches, and analysts.
+The project is led by a multidisciplinary team of professionals with **UEFA certifications**, **Masters in Engineering**, and **international experience** as players, coaches, and business developers.
 
 Our team combines:
-- **Technical Expertise** - UEFA A and B certified coaches
+- **Technical Expertise** - UEFA certified coaches and Master’s in Engineering
+- **Professional Development** - Business developers and specialized psychologists
 - **International Experience** - Professional careers in multiple countries
-- **Business Acumen** - Track record in project development and capital raising
 - **Local Knowledge** - Deep understanding of Uruguayan football ecosystem
 
 ---

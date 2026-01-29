@@ -2,9 +2,10 @@ input: .
 output: docs
 url: premierfootball.github.io/whitepaper/
 branding:
-  title: Premier Football
+  title: Premier Football Growth
   label: PFG
   logo: /static/logo.png
+  favicon: /static/logo.png
 color:
   theme: dark
 links:

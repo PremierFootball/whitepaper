@@ -131,10 +131,10 @@ We do **not** provide specific revenue projections due to the variable nature of
 
 ### Success Factors
 
-✅ **Proven Market:** Uruguay has a track record of producing exportable talent  
-✅ **Professional Infrastructure:** Modern facilities attract better talent  
-✅ **Experienced Team:** UEFA-certified coaches and international experience  
-✅ **Strategic Location:** Access to South American and European markets  
+- **Proven Market:** Uruguay has a track record of producing exportable talent
+- **Professional Infrastructure:** Modern facilities attract better talent
+- **Experienced Team:** UEFA-certified coaches and international experience
+- **Strategic Location:** Access to South American and European markets
 
 ---
 
