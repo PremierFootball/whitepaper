@@ -73,30 +73,32 @@ order: 850
 
 ### Blockchain Layer
 
-**Network:** EVM-compatible blockchain (Ethereum, Polygon, or BSC)
-- Proven security and reliability
-- Wide ecosystem support
-- Established DeFi infrastructure
+**Network:** Solana (initial deployment), with planned multichain expansion
+- High throughput and low transaction costs
+- Strong retail and institutional ecosystem
+- Optimized for scalable token distribution
+- Future interoperability with other major chains
 
 **Smart Contracts:**
-- Solidity programming language
-- OpenZeppelin libraries for security
-- Upgradeable proxy patterns where appropriate
-- Comprehensive testing and auditing
+- Rust / Anchor framework
+- Auditable program architecture
+- Upgradeable program model where appropriate
+- Comprehensive testing and security reviews
+- Designed for future multichain compatibility
 
 ### Application Layer
 
 **Frontend:**
 - Modern web framework (React/Next.js)
-- Web3 wallet integration (MetaMask, WalletConnect)
+- Web3 wallet integration and social login
 - Responsive design for mobile and desktop
-- Real-time data updates
+- Frequent updates and engagement
 
 **Backend:**
 - API services for off-chain data
 - Event indexing and caching
 - User authentication and profiles
-- Analytics and reporting
+- KPIs, Analytics and reporting
 
 **Data Storage:**
 - On-chain: Critical transactions and governance
@@ -131,7 +133,7 @@ order: 850
 - Building construction (gym, facilities)
 - Infrastructure setup (power, water, data)
 
-### Phase 2: Equipment & Setup (Months 10-15)
+### Phase 2: Equipment & Setup (Months 10-15, parallel execution)
 
 - Gym equipment installation
 - Technology systems deployment
@@ -142,8 +144,8 @@ order: 850
 
 - Facility opening
 - Initial player intake
-- Staff onboarding
-- Systems go-live
+- New Staff onboarding
+- Operations go-live
 
 ---
 

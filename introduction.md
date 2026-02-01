@@ -74,9 +74,9 @@ This allocation prioritizes long-term operational sustainability and infrastruct
 
 ## Realistic Horizon
 
-The project includes **5 years of full coverage** for the team, ensuring operational stability while building sports assets and revenue streams.
+The project includes **5 years of full coverage** (and more) for the team, ensuring operational stability while building sports assets and revenue streams.
 
-**Target:** Achieve operational self-sustainability in 24-36 months
+**Target:** Achieve operational self-sustainability in 24-36 months after the start of operations.
 
 **Design:** Financial structure does not depend on hitting this target to survive
 
