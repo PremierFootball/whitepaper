@@ -10,9 +10,9 @@ order: 1000
 
 ## Executive Summary
 
-This project proposes the creation of a **tokenized professional football club** in Uruguay that will compete in the Uruguayan Football Association (AUF) and CONMEBOL tournaments.
+This project proposes the creation of a **tokenized professional football club** that will compete in the Uruguayan Football Association (AUF) and CONMEBOL tournaments.
 
-The initiative combines **real assets** (player contracts, land and sports infrastructure), **professional club operations**, and a **transparent crypto structure**, aimed at investors seeking exposure to Real World Assets (RWA) with high upside potential through football.
+The initiative combines **real assets** (player contracts and monetizable usage rights over sports facilities), **professional club operations**, and a **transparent crypto structure**, aimed at investors seeking exposure to Real World Assets (RWA) with high upside potential through football.
 
 **Fundraising Goal:** USD 3,000,000  
 **Purpose:** Establish and operate a professional football club with tokenized ownership and revenue sharing
@@ -38,7 +38,7 @@ The project starts with:
 
 - **Land available** for sports city development
 - **Founding team** with UEFA certifications, international experience, and a multidisciplinary background driven by a deep passion for what we do.
-- **Pathway to professional competition**, with ongoing discussions with multiple clubs interested in joining the project.
+- **Pathway to professional competition**, with ongoing discussions with multiple clubs interested in joining the projectt, from which one strategic partner will be selected.
 
 ---
 
