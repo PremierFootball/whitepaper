@@ -16,9 +16,8 @@ order: 800
 | Category | Allocation | Notes |
 |----------|-----------|-------|
 | **For Sale** | 60% | Distributed across funding rounds |
-| **Team** | 20% | Founders and core development team |
-| **Investors** | 15% | Strategic and private partners |
-| **Advisors** | 5% | Strategic guidance and industry experts |
+| **Team** | 35% | Founders and core development team |
+| **Advisors & Commissions** | 5% | Strategic guidance, industry experts, and success-based fundraising fees |
 
 ---
 
@@ -39,8 +38,7 @@ order: 800
 | Category | Release Schedule |
 |----------|------------------|
 | **Team** | 12-month lockup, then 1/24 monthly over 24 months |
-| **Investors** | 12-month lockup, then 1/24 monthly over 24 months |
-| **Advisors** | 6-month lockup, then 1/12 monthly over 12 months |
+| **Advisors & Commissions** | 6-month lockup, then 1/12 monthly over 12 months |
 | **Community (For Sale)** | 15.5% at TGE, 4.78% to treasury at month 1, then 1/47 of the remainder monthly over 47 months |
 | **Liquidity / Public** | Managed based on market demand and exchange requirements |
 
