@@ -83,17 +83,19 @@ Our team combines:
 
 ## Team Compensation
 
-### Salary Structure
+### Operational Budget Framework
 
-- **Annual Team Budget:** USD 200,000
-- **Coverage:** 5 years fully funded from initial raise
-- **Additional Contracts:** USD 50,000/year for specialized roles
+- Multi-year operational runway secured from initial capital raise
+- Dedicated budget for technical, coaching, and management staff
+- Flexible allocation for specialized roles and performance needs
+
+Designed to ensure long-term sustainability and execution capacity
 
 ### Incentive Alignment
-
-- **Token Allocation:** 40% of total supply to team and early investors
-- **Vesting Schedule:** Long-term vesting to ensure commitment
-- **Performance Bonuses:** Tied to player transfers and revenue milestones
+    
+- Significant token allocation reserved for the founding and core team
+- Long-term vesting structure to guarantee execution commitment
+- Incentives tied to project growth and ecosystem value creation
 
 ---
 
