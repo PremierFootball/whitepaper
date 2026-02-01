@@ -77,6 +77,7 @@ order: 800
 ### Ongoing Liquidity
 
 - **Buybacks** from Revenue Pool
+- **Staking Programs** - Incentives for long-term holders
 - Gradual liquidity expansion
 - Market-driven price discovery
 
