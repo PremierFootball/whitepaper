@@ -1,5 +1,5 @@
 ---
-icon: currency-dollar
+icon: briefcase
 label: Revenue Model
 order: 750
 ---
@@ -8,13 +8,14 @@ order: 750
 
 ## Income Sources
 
-### 1. Player Transfers
-
-**Primary Revenue Driver**
-
-- Sale of developed players to international clubs
+- Sale of developed players to international clubs (South America, Europe, MLS, Middle East)
 - Transfer fees negotiated based on player performance and potential
-- Historical precedent: Uruguay exports high-value talent globally
+- Historical precedent: Uruguay is the world's leading exporter of elite talent per capita
+
+**Market Benchmarks:**
+- **Elite Level (Peñarol/Nacional):** USD 5M - 15M+ per top prospect
+- **Mid-Tier (Defensor/Danubio):** USD 1M - 5M per top prospect
+- **Emerging Clubs:** USD 300k - 1.5M per initial transfer (often plus sell-on)
 
 **Revenue Potential:** High upside, variable timing
 
@@ -54,27 +55,19 @@ order: 750
 
 ---
 
-### 4. Facility Rental
+### 4. TV Rights & Competition Revenue
 
-**Infrastructure Monetization**
+**League Distribution (AUF)**
+- **Divisional A:** ~USD 2,000,000 annually (New 2026-2029 cycle projections)
+- **Divisional B:** ~USD 800,000 annually
+- Guaranteed recurring revenue upon reaching professional categories
 
-- Rent fields and facilities to local clubs
-- Host training camps and tournaments
-- Corporate events and team-building activities
+**CONMEBOL Bonuses**
+- Participation in Copa Sudamericana: USD 250k - 500k+ per stage
+- Participation in Copa Libertadores: USD 1M - 3M+ for group stage
+- Merit-based bonuses for matches won
 
-**Revenue Potential:** Steady, predictable income
-
----
-
-### 5. Club Partnerships & Agreements
-
-**Strategic Collaborations**
-
-- Joint development programs with clubs
-- Scouting and talent identification services
-- Technical consulting and coaching services
-
-**Revenue Potential:** Moderate, relationship-driven
+**Revenue Potential:** Steady, tiered growth
 
 ---
 
@@ -97,25 +90,20 @@ order: 750
 
 ## Revenue Timeline
 
-### Year 1-2: Infrastructure Phase
-- **Primary Focus:** Construction and setup
-- **Revenue:** Minimal (facility rental only)
-- **Funding:** Relies on initial raise
+### Year 1-2: Infrastructure Phase (AUF Divisional D/C)
+- **Primary Focus:** Construction and team formation
+- **Revenue:** Facility rental + early local partnerships
+- **TV Rights:** Minimal (Divisional C/D levels)
 
-### Year 2-3: Early Operations
-- **Primary Focus:** Player development begins
-- **Revenue:** Facility rental + early partnerships
-- **Milestone:** First player transfers possible
+### Year 2-4: Professional Ascension (AUF Divisional B)
+- **Primary Focus:** Promotion to professional ranks
+- **Revenue:** ~USD 800k (TV Rights) + Transfer Rights
+- **Milestone:** First professional player exports
 
-### Year 3-5: Revenue Generation
-- **Primary Focus:** Mature operations
-- **Revenue:** Player transfers + training rights + facility rental
-- **Milestone:** Operational self-sustainability
-
-### Year 5+: Scaling Phase
-- **Primary Focus:** Expansion and optimization
-- **Revenue:** Multiple revenue streams at scale
-- **Milestone:** Consistent distributions to token holders
+### Year 4-6: Elite Competition (AUF Divisional A)
+- **Primary Focus:** Domestic stability and CONMEBOL qualification
+- **Revenue:** ~USD 2M (TV Rights) + Player Transfers + CONMEBOL bonuses
+- **Milestone:** Operational self-sustainability and initial holder distributions
 
 ---
 

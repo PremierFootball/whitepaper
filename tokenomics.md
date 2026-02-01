@@ -95,9 +95,6 @@ Long-term founder alignment with multi-year vesting tied to operational executio
 4. **Facility Rental** - Additional income stream
 5. **Club Partnerships** - Strategic agreements
 
-### Distribution Model
-
-
 ---
 
 ## Token Value Drivers
