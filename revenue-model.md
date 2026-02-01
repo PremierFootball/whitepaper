@@ -121,7 +121,7 @@ We do **not** provide specific revenue projections due to the variable nature of
 
 - **Proven Market:** Uruguay has a track record of producing exportable talent
 - **Professional Infrastructure:** Modern facilities attract better talent
-- **Experienced Team:** UEFA-certified coaches and international experience
+- **Experienced Team:** AUF-certified and UEFA-certified coaches and international experience
 - **Strategic Location:** Access to South American and European markets
 
 ---

@@ -1,7 +1,7 @@
 ---
 icon: code
 label: Technology
-order: 850
+order: 760
 ---
 
 # Infrastructure & Technology
