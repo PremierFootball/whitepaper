@@ -17,7 +17,9 @@ order: 800
 |----------|-----------|-------|
 | **For Sale** | 60% | Distributed across funding rounds |
 | **Team** | 35% | Founders and core development team |
-| **Advisors & Commissions** | 5% | Strategic guidance, industry experts, and success-based fundraising fees |
+| **Advisors & Commissions** | 5% | Strategic guidance, industry exp
+
+Long-term founder alignment with multi-year vesting tied to operational execution
 
 ---
 
@@ -37,10 +39,10 @@ order: 800
 
 | Category | Release Schedule |
 |----------|------------------|
-| **Team** | 12-month lockup, then 1/24 monthly over 24 months |
-| **Advisors & Commissions** | 6-month lockup, then 1/12 monthly over 12 months |
-| **Community (For Sale)** | 15.5% at TGE, 4.78% to treasury at month 1, then 1/47 of the remainder monthly over 47 months |
-| **Liquidity / Public** | Managed based on market demand and exchange requirements |
+| **Team** | 12-month lockup, then linear vesting over 24 months |
+| **Advisors & Commissions** | 6-month lockup, then linear vesting over 12 months |
+| **Community (For Sale)** | 15% at TGE, followed by linear vesting over 48 months to ensure long-term ecosystem stability |
+| **Liquidity / Public** | Managed based on market and exchange requirements |
 
 ---
 
