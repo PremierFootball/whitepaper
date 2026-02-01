@@ -1,7 +1,7 @@
 ---
 icon: briefcase
 label: Revenue Model
-order: 770
+order: 700
 ---
 
 # Revenue Model

@@ -1,7 +1,7 @@
 ---
 icon: people
 label: Team
-order: 730
+order: 400
 ---
 
 # Founding Team

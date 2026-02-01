@@ -1,7 +1,7 @@
 ---
 icon: shield-check
 label: Governance
-order: 740
+order: 500
 ---
 
 # Governance (DAO)

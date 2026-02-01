@@ -1,7 +1,7 @@
 ---
 icon: calendar
 label: Roadmap
-order: 600
+order: 300
 ---
 
 # Development Roadmap
