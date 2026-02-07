@@ -17,7 +17,7 @@ order: 800
 |----------|-----------|-------|
 | **For Sale** | 60% | Distributed across funding rounds |
 | **Team** | 35% | Founders and core development team |
-| **Advisors & Commissions** | 5% | Strategic guidance, industry exp
+| **Advisors & Commissions** | 5% | Strategic guidance, industry expertise, and sales commissions |
 
 Long-term founder alignment with multi-year vesting tied to operational execution
 
@@ -61,7 +61,7 @@ Long-term founder alignment with multi-year vesting tied to operational executio
 
 ### 3. Transferability
 - Trade on secondary markets
-- DEX liquidity pool (TOKEN / USDC)
+- DEX liquidity pool (TOKEN / USDT)
 - Potential CEX listings in the future
 
 ---
@@ -92,8 +92,7 @@ Long-term founder alignment with multi-year vesting tied to operational executio
 1. **Player Transfers** - Primary revenue driver
 2. **Training Rights** - FIFA mechanisms
 3. **Sell-on Clauses** - Future transfer participation
-4. **Facility Rental** - Additional income stream
-5. **Club Partnerships** - Strategic agreements
+4. **TV Rights & Competition Revenue** - AUF and CONMEBOL distributions
 
 ---
 

@@ -38,7 +38,7 @@ The project starts with:
 
 - **Land available** for sports city development
 - **Founding team** with UEFA certifications, international experience, and a multidisciplinary background driven by a deep passion for what we do.
-- **Pathway to professional competition**, with ongoing discussions with multiple clubs interested in joining the projectt, from which one strategic partner will be selected.
+- **Pathway to professional competition**, with ongoing discussions with multiple clubs interested in joining the project, from which one strategic partner will be selected.
 
 ---
 

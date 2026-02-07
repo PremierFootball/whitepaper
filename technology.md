@@ -44,7 +44,7 @@ order: 600
 ### Core Contracts
 
 **1. Token Contract**
-- ERC-20 standard implementation
+- SPL Token standard implementation
 - Transfer and approval functions
 - Supply management
 - Burn mechanism
