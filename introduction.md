@@ -29,30 +29,35 @@ The club operates as a **tokenized entity**, allowing investors to participate i
 Token holders will have the right to:
 
 ### Economic Rights
-- Participate in an annual Revenue Pool (20-30% of Net Revenue)
-- Receive distributions based on token holdings
+- Benefit from the **Buyback & Reward Pool** (20-30% of Net Revenue funds token buybacks and staker rewards)
+- Participate in staking programs from Day 1
 - No guaranteed returns or minimum price
 
-### Governance Rights
-- Access to limited governance through DAO
-- Vote on treasury allocation
-- Vote on project expansion
-- Vote on annual distribution percentage
+### Future Governance Rights
+- Progressive governance rights activated based on project milestones
+- Community advisory votes during early phases
+- Full strategic governance activated after operational maturity
+- **No control** over operational sports decisions at any stage
+
+### Holder Benefits
+- Exclusive content and behind-the-scenes access
+- Sports city visits and match tickets
+- NFT commemoratives for milestone events
 
 ### Transferability
 - Tokens are transferable on secondary markets
 - Initial liquidity pool on DEX (TOKEN / USDT)
-- Limited and locked initial liquidity
+- Protocol-owned liquidity, locked to prevent rug pulls
 - Additional liquidity through buybacks
 
 ---
 
-## Use of Funds (USD 3M)
+## Use of Funds (USD 5M)
 
 ### Key Resources
 
 The project already has:
-- **Land secured** (founders’ capital investment)
+- **Land secured** (founders' capital investment)
 - **Complete technical and management team**
 - **Pathway to AUF registration**
 
@@ -60,33 +65,36 @@ The project already has:
 
 | Category | Amount | Purpose |
 |----------|--------|---------|
-| **Sports City Construction** | USD 1,000,000 | Training fields, gym, performance center|
-| **Club Formation & Registration** | USD 200,000 | AUF registration, initial player contracts, competition fees, equipment |
-| **Operations (5-year runway)** | USD 1,300,000 | Technical staff, management, player salaries, operational costs |
-| **Strategic Reserve** | USD 250,000 | Operational buffer, emergency fund, contingencies |
-| **Token Liquidity** | USD 250,000 | Initial DEX liquidity pool |
+| **Sports City Construction** | USD 1,500,000 | Training fields, gym, performance center, margin for overruns |
+| **Club Formation & Registration** | USD 300,000 | AUF registration, initial player contracts, competition fees, equipment |
+| **Operations (5+ year runway)** | USD 1,700,000 | Technical staff, management, player salaries, operational costs |
+| **Strategic Reserve** | USD 400,000 | Operational buffer, emergency fund, contingencies |
+| **Token Liquidity (DEX)** | USD 600,000 | Protocol-owned DEX liquidity pool |
+| **Launch & Marketing** | USD 300,000 | Launchpad, community building, PR, content |
+| **Scouting & Player Acquisition** | USD 200,000 | Talent identification, signing bonuses, trials |
 
-> **Total:** USD 3,000,000
+> **Total:** USD 5,000,000
 
-This allocation prioritizes long-term operational sustainability and infrastructure development, ensuring the club can operate with stability while preserving liquidity and risk buffers to protect investors.
+This allocation provides a **7+ year operational runway**, significantly reducing pressure on early revenue generation and allowing the team to make long-term sporting decisions without financial urgency.
 
 ---
 
 ## Realistic Horizon
 
-The project includes **5 years of full coverage** (and more) for the team, ensuring operational stability while building sports assets and revenue streams.
+The project includes **5+ years of full coverage** for the team, with additional reserves and contingency buffers that extend the effective runway to approximately 7 years.
 
 **Target:** Achieve operational self-sustainability in 24-36 months after the start of operations.
 
-**Design:** Financial structure does not depend on hitting this target to survive
+**Design:** Financial structure does not depend on hitting this target to survive. The extended runway ensures the club can weather delays, market conditions, or slower-than-expected revenue ramp-up.
 
 ---
 
 ## Fund Management
 
-- Funds managed from a **multisig wallet**
+- Funds managed from a **multisig wallet** (3-of-5 signers)
 - Released in **tranches** based on milestone completion
 - Full transparency and on-chain tracking
+- All movements published on a public dashboard
 
 ---
 

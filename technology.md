@@ -8,6 +8,8 @@ order: 600
 
 ## Sports City Infrastructure
 
+![Sports city project](static/land_after.jpg)
+
 ### Facility Components
 
 **Training Fields**

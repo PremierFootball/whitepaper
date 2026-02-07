@@ -20,21 +20,21 @@ We prioritize **execution over hype** and **substance over speed**.
 
 ### Objectives
 - Complete whitepaper and project documentation
-- Conduct token sale rounds (Founder, Community, Public)
+- Conduct token sale rounds (Seed, Private, Public)
 - Establish legal structure (SAD formation)
 - Secure initial partnerships with clubs
 
 ### Milestones
 - [x] Whitepaper published
 - [x] Core team assembled
-- [ ] Founder round completed (USD 600k @ $0.03)
-- [ ] Community round completed (USD 1M @ $0.05)
-- [ ] Public round completed (USD 1.4M @ $0.07)
+- [ ] Seed round completed (USD 850k @ $0.05)
+- [ ] Private round completed (USD 2M @ $0.10)
+- [ ] Public / Launchpad round completed (USD 2.25M @ $0.15)
 - [ ] Smart contracts deployed and audited
-- [ ] Initial DEX liquidity established
+- [ ] Initial DEX liquidity established (USD 600k)
 
 ### Success Criteria
-- USD 3M raised
+- ~USD 5M raised
 - Token launched and trading
 - Legal entity operational
 
@@ -48,7 +48,7 @@ We prioritize **execution over hype** and **substance over speed**.
 - Build the sports city facility
 - Hire technical and operational staff
 - Establish club partnerships
-- Begin player recruitment
+- Begin player scouting and recruitment
 
 ### Milestones
 - [ ] Land development and site preparation
@@ -58,6 +58,7 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Technology and equipment installation
 - [ ] Staff hiring (coaches, analysts, operations)
 - [ ] Partnership agreements with 3-5 local clubs
+- [ ] Milestone token burn: construction complete (1M tokens)
 
 ### Success Criteria
 - Facility construction completed
@@ -73,21 +74,22 @@ We prioritize **execution over hype** and **substance over speed**.
 ### Objectives
 - Open facility for operations
 - Begin player development programs
-- Generate initial revenue from facility rental
 - Establish training methodologies
+- Activate staking programs and community engagement
 
 ### Milestones
 - [ ] Facility grand opening
 - [ ] First cohort of players (20-30 athletes)
 - [ ] Training programs launched
-- [ ] Facility rental agreements signed
 - [ ] Performance tracking systems operational
-- [ ] First governance proposals and votes
+- [ ] Community advisory votes activated (non-binding)
+- [ ] Milestone token burn: first player signed (500k tokens)
+- [ ] Milestone token burn: first competitive match (500k tokens)
 
 ### Success Criteria
 - Facility operational
 - Players in development
-- Revenue generation begins
+- Community engagement active
 
 ---
 
@@ -99,20 +101,22 @@ We prioritize **execution over hype** and **substance over speed**.
 - Execute first player transfers
 - Scale player development operations
 - Achieve operational self-sustainability
-- Begin token holder distributions
+- Activate Buyback & Reward Pool
 
 ### Milestones
 - [ ] First player transfers completed
 - [ ] Training rights revenue activated
 - [ ] Sell-on clauses negotiated
 - [ ] Operational costs covered by revenue
-- [ ] First annual distribution to token holders
+- [ ] Buyback & Reward Pool first activation
+- [ ] Binding community governance on Pool percentage
+- [ ] Milestone token burn: first transfer (2M tokens)
 - [ ] Facility expansion planning
 
 ### Success Criteria
 - Player transfers generating revenue
 - Operational self-sustainability achieved
-- Token holders receiving distributions
+- Buyback & Reward Pool active
 
 ---
 
@@ -124,25 +128,20 @@ We prioritize **execution over hype** and **substance over speed**.
 - Expand infrastructure
 - Develop regional platform
 - Explore new markets and partnerships
-- Transition to full DAO governance
+- Progress governance decentralization
 
 ### Milestones
 - [ ] Additional facilities or land acquisition
 - [ ] International partnerships established
 - [ ] Multi-cohort player pipeline operational
-- [ ] Consistent annual distributions
-- [ ] Full DAO governance implemented
+- [ ] Consistent buyback and burn activity
+- [ ] Full strategic governance activated
 - [ ] Potential for additional token utilities
 
 ### Success Criteria
 - Sustainable business model
 - Regional leadership in player development
-- Strong token holder returns
-
----
-
-## Timeline Visualization
-
+- Active token economy with buybacks and burns
 
 ---
 
@@ -174,12 +173,16 @@ Funds from the treasury are released based on milestone completion:
 
 | Milestone | Fund Release | Purpose |
 |-----------|-------------|---------|
-| Token Sale Complete | USD 250k | Initial operations & planning |
-| Site Preparation Done | USD 300k | Begin construction |
-| 50% Construction Complete | USD 400k | Continue construction |
-| Facility Operational | USD 300k | Equipment & staffing |
-| First Players Recruited | USD 200k | Operations scaling |
-| Ongoing Operations | Monthly | Salaries & maintenance |
+| Seed Round Complete | USD 300k | Legal, SAD formation, initial planning |
+| Private Round Complete | USD 500k | Site preparation, team expansion, construction start |
+| Public Launch (TGE) | USD 700k | DEX liquidity, marketing, launchpad fees |
+| 50% Construction Complete | USD 500k | Continue construction |
+| Construction Complete | USD 400k | Equipment, technology |
+| Facility Operational | USD 300k | Staff onboarding, first players |
+| First Competitive Season | USD 300k | Full operations |
+| Ongoing Operations | ~USD 100k/month | Salaries, maintenance (~20 months) |
+
+> **Total: USD 5,000,000 — 100% allocated and traceable on-chain**
 
 ---
 
@@ -187,15 +190,18 @@ Funds from the treasury are released based on milestone completion:
 
 ### Regular Updates
 
-- **Monthly:** Progress reports to community
-- **Quarterly:** Financial statements and metrics
-- **Annually:** Comprehensive review and planning
+- **Monthly:** Community calls (AMAs) with founding team
+- **Quarterly:** Financial reports published on-chain
+- **Per Milestone:** Public announcements and dashboard updates
+- **Annually:** Comprehensive review including independent revenue audit
 
-### Milestone Celebrations
+### Public Dashboard
 
-- Public announcements for major milestones
-- Community events and engagement
-- Transparent documentation of achievements
+Real-time access to:
+- Construction and facility progress
+- Financial transactions and treasury balance
+- Token metrics (circulating supply, burns, buyback activity)
+- Player development milestones
 
 ---
 
@@ -216,7 +222,7 @@ Beyond 2030, we envision:
 - **Multiple Facilities:** Expand to additional locations
 - **Regional Platform:** Become the premier development hub in South America
 - **International Network:** Partnerships with top European and global clubs
-- **Sustainable Ecosystem:** Self-funding operations with consistent token holder returns
-- **Community Ownership:** Full DAO governance and community-driven growth
+- **Sustainable Ecosystem:** Self-funding operations with consistent buyback and burn activity
+- **Community Governance:** Full strategic governance earned through milestones
 
 **Football is the asset. Crypto is the rail.**

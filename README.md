@@ -14,8 +14,8 @@ This project proposes the creation of a **tokenized professional football club**
 
 The initiative combines **real assets** (player contracts and monetizable usage rights over sports facilities), **professional club operations**, and a **transparent crypto structure**, aimed at investors seeking exposure to Real World Assets (RWA) with high upside potential through football.
 
-**Fundraising Goal:** USD 3,000,000  
-**Purpose:** Establish and operate a professional football club with tokenized ownership and revenue sharing
+**Fundraising Goal:** USD 5,000,000
+**Purpose:** Establish and operate a professional football club with tokenized ownership and a Buyback & Reward model
 
 ---
 
@@ -40,6 +40,12 @@ The project starts with:
 - **Founding team** with UEFA certifications, international experience, and a multidisciplinary background driven by a deep passion for what we do.
 - **Pathway to professional competition**, with ongoing discussions with multiple clubs interested in joining the project, from which one strategic partner will be selected.
 
+||| Current Land
+![Current land secured for development](static/land.png)
+||| Sports City Project
+![Sports city project render](static/land_after.jpg)
+|||
+
 ---
 
 ## What You'll Find Here
@@ -48,7 +54,7 @@ The project starts with:
 - **[Technology](technology.md)** - Infrastructure and technical architecture
 - **[Tokenomics](tokenomics.md)** - Token distribution, utility, and economics
 - **[Revenue Model](revenue-model.md)** - Income sources from club operations and player transfers
-- **[Governance](governance.md)** - DAO structure and decision-making
+- **[Governance](governance.md)** - Transparency, multisig, and progressive decentralization
 - **[Team](team.md)** - Founding team and football expertise
 - **[Roadmap](roadmap.md)** - Development timeline from club formation to CONMEBOL competition
 

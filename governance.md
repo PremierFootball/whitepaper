@@ -4,165 +4,160 @@ label: Governance
 order: 500
 ---
 
-# Governance (DAO)
+# Governance & Transparency
 
 ## Overview
 
-The Premier Football project implements a **hybrid governance model** that balances community participation with operational expertise.
+The Premier Football project operates under a **team-managed model with progressive decentralization**. The founding team has full operational and strategic authority during the early phases, with governance rights being activated based on real project milestones.
 
-Token holders participate in strategic decisions through a **Decentralized Autonomous Organization (DAO)**, while day-to-day sports operations remain under professional management.
+All financial activity is managed through a **multisig wallet** and reported transparently on-chain.
 
----
-
-## DAO Decision Authority
-
-### What the DAO Controls 
-
-#### 1. Treasury Allocation
-- Vote on strategic investments and major capital expenditures
-- Vote on budget allocations beyond operational baseline
-
-#### 2. Project Expansion
-- Vote on new facility constructions
-- Vote on geographic expansion
-- Vote on new business lines
-
-#### 3. Revenue Distribution
-- Set annual distribution percentage (within 20-30% range)
-- Vote on special distributions
-- Vote on buyback strategies
-
-#### 4. Strategic Partnerships
-- Vote on major partnership agreements
-- Vote on equity or token swaps
-- Vote on strategic collaborations
+> Governance rights will be activated progressively as the project matures. During Phase 1-3, the founding team operates with full decision-making authority over sports and business operations. Community governance mechanisms will be introduced based on project milestones, not arbitrary timelines.
 
 ---
 
-### What the DAO Does NOT Control
+## Current Operating Model (Phase 1-3)
 
-#### Operational Sports Decisions
+### Team-Managed Operations
 
-The DAO **does not** make decisions about:
+The founding team makes all operational, strategic, and financial decisions:
+
+- Player recruitment and development
+- Coaching staff appointments and training methodologies
+- Club partnerships and commercial agreements
+- Budget allocation and financial planning
+- Infrastructure development and maintenance
+
+### Transparency Mechanisms
+
+While the team operates with full authority, all activity is transparent:
+
+- **Multisig wallet** for all fund movements
+- **On-chain tracking** of all financial transactions
+- **Public dashboard** with project metrics and financials
+- **Monthly community calls** (AMAs)
+- **Quarterly financial reports** published on-chain
+
+---
+
+## Multisig Treasury
+
+### Structure: 3-of-5
+
+| Signer | Role |
+|--------|------|
+| Founder 1 | CEO / Project Lead |
+| Founder 2 | CTO / Tech Lead |
+| Founder 3 | COO / Operations |
+| Legal Advisor | External legal representative |
+| Investor Representative | Elected from Seed round top holders (activated post-Seed) |
+
+### Rules
+
+- **Threshold:** 3 of 5 signatures required for execution
+- **Key rotation:** Every 12 months
+- **Recovery:** 4 of 5 to replace a compromised or unavailable signer
+- **Public dashboard:** All movements published on-chain in real-time
+- **5th signer activation:** Investor representative joins after Seed round closes
+
+---
+
+## Progressive Decentralization Roadmap
+
+Governance rights are activated based on real milestones, not timelines. This ensures governance is introduced when the project has the operational maturity to support it.
+
+### Milestone-Based Governance Activation
+
+| Milestone | Governance Feature Activated |
+|-----------|------------------------------|
+| **Facility operational** | Community advisory votes (non-binding) on strategic direction |
+| **First player transfer** | Binding community votes on Buyback & Reward Pool percentage (20-30%) |
+| **Sustained positive Net Revenue** | Binding votes on treasury allocation for expansion and new initiatives |
+| **>50% of team tokens vested** | Full strategic governance: community votes on major partnerships, expansion, and treasury strategy |
+
+### What the Community Will Eventually Control
+
+- Buyback & Reward Pool percentage (within 20-30% range)
+- Treasury allocation for expansion projects
+- Major partnership agreements
+- Strategic direction of the project
+
+### What the Community Will Never Control
 
 - Player recruitment and selection
 - Coaching staff appointments
 - Training methodologies
 - Match strategies and tactics
+- Day-to-day operational decisions
 
-> **Rationale:** Sports decisions require professional expertise and cannot be effectively managed by committee vote. The founding team retains operational autonomy to ensure competitive performance.
-
----
-
-## Governance Mechanism
-
-### Voting Power
-
-- **1 token = 1 vote**
-- Voting power proportional to token holdings
-- No maximum voting cap (whales can have significant influence)
-
-### Proposal Process
-
-
-### Voting Requirements
-
-| Proposal Type | Quorum | Approval Threshold | Voting Period |
-|--------------|--------|-------------------|---------------|
-| **Treasury Allocation** | 10% | 66% | 7 days |
-| **Expansion Projects** | 15% | 66% | 7 days |
-| **Distribution %** | 10% | 51% | 5 days |
-| **Partnerships** | 10% | 51% | 5 days |
+> **Rationale:** Sports decisions require professional expertise and cannot be effectively managed by committee vote. The founding team retains permanent operational autonomy to ensure competitive performance.
 
 ---
 
-## Governance Evolution
+## KYC & Compliance
 
-### Phase 1: Founding Team Control (Year 1-2)
+### Token Sale Compliance
 
-- **Focus:** Construction and initial setup
-- **Governance:** Founding team has veto power
-- **Rationale:** Critical execution phase requires decisive leadership
+| Round | KYC Requirement | Method |
+|-------|----------------|--------|
+| **Seed** | Full KYC + accredited investor verification | Third-party provider (Sumsub / Synaps) |
+| **Private** | Full KYC | Third-party provider (Sumsub / Synaps) |
+| **Public / Launchpad** | Launchpad KYC (if applicable) + geo-blocking | Launchpad-managed |
 
-### Phase 2: Hybrid Governance (Year 2-4)
+### Restricted Jurisdictions
 
-- **Focus:** Operations and early revenue
-- **Governance:** DAO votes on major decisions, team executes
-- **Rationale:** Balance community input with operational efficiency
+Token sale is restricted in: United States, China, North Korea, Iran, Cuba, and all OFAC/EU sanctioned jurisdictions.
 
-### Phase 3: Full DAO (Year 4+)
+### Ongoing Compliance
 
-- **Focus:** Mature operations and expansion
-- **Governance:** DAO has full control over strategic decisions
-- **Rationale:** Project is stable and community-driven
-
----
-
-## Governance Tools
-
-### On-Chain Voting
-
-- All votes recorded on blockchain
-- Transparent and immutable
-- Verifiable by anyone
-
-### Governance Forum
-
-- Off-chain discussion platform
-- Proposal drafting and refinement
-- Community feedback and debate
-
-### Multisig Treasury
-
-- Funds controlled by multisig wallet
-- Requires multiple signatures for execution
-- Signers include team members and community representatives
+- AML screening for Seed and Private round participants
+- Wallet screening for suspicious activity
+- Terms and conditions with legal disclaimers at every point of sale
+- Legal counsel on retainer for regulatory monitoring
 
 ---
 
-## Governance Safeguards
+## Community Participation (Current Phase)
 
-### Time Locks
+### How to Get Involved Now
 
-- Major decisions have implementation delays
-- Allows community to react to approved proposals
-- Emergency pause mechanism for critical issues
+1. **Participate in Token Sale** — Join the Seed or Private round
+2. **Follow Progress** — Track construction and operations via public dashboard
+3. **Join Community Calls** — Monthly AMAs with the founding team
+4. **Provide Feedback** — Share input through community channels
 
-### Veto Rights (Phase 1-2)
+### Future Participation
 
-- Founding team can veto proposals that:
-  - Threaten project viability
-  - Violate legal/regulatory requirements
-  - Compromise sports operations
+As governance milestones are reached:
 
-### Proposal Bonds
-
-- Proposers may need to stake tokens
-- Prevents spam and frivolous proposals
-- Bonds returned if proposal meets minimum support
+1. **Advisory Votes** — Participate in non-binding community polls
+2. **Binding Votes** — Vote on Revenue Pool percentages and treasury allocation
+3. **Delegate Voting** — Delegate your voting power to trusted community members
+4. **Submit Proposals** — Create proposals for community consideration
 
 ---
 
-## Community Participation
+## Communication & Reporting
 
-### How to Get Involved
+### Regular Updates
 
-1. **Hold Tokens** - Acquire voting power
-2. **Join Discussions** - Participate in governance forum
-3. **Submit Proposals** - Create proposals for community vote
-4. **Vote on Proposals** - Exercise your governance rights
-5. **Delegate Votes** - Delegate to trusted community members
+- **Monthly:** Community calls (AMAs) with founding team
+- **Quarterly:** Financial reports published on-chain
+- **Per Milestone:** Public announcements and dashboard updates
+- **Annually:** Comprehensive review including independent revenue audit
 
-### Delegation
+### Public Dashboard
 
-- Token holders can delegate voting power
-- Maintain token ownership while outsourcing governance
-- Revocable at any time
+Real-time access to:
+- Construction and facility progress
+- Financial transactions and treasury balance
+- Token metrics (circulating supply, burns, buyback activity)
+- Player development milestones (anonymized until public)
 
 ---
 
 !!!tip Governance Philosophy
-**"Decentralize strategy, centralize execution."**
+**"Transparency now, decentralization earned."**
 
-The DAO controls the "what" and "why" (strategic direction), while the professional team controls the "how" (operational execution). This ensures both community alignment and professional excellence.
+We believe governance should be introduced when a project has proven it can operate, not promised at launch and never delivered. Our approach is to operate transparently from day one and progressively hand over strategic control as the project matures.
 !!!

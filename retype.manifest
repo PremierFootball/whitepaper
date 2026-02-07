@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2026-02-01T10:41:42Z",
+  "created": "2026-02-07T10:16:34Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -16,6 +16,12 @@
     },
     {
       "path": "introduction/index.html"
+    },
+    {
+      "path": "reports/audit/index.html"
+    },
+    {
+      "path": "reports/proposals/index.html"
     },
     {
       "path": "resources/css/retype.css"
@@ -78,7 +84,16 @@
       "old": true
     },
     {
+      "path": "static/land_after.jpg"
+    },
+    {
+      "path": "static/land.png"
+    },
+    {
       "path": "static/logo.png"
+    },
+    {
+      "path": "static/s.jpg"
     },
     {
       "path": "team/index.html"

@@ -8,6 +8,8 @@ order: 700
 
 ## Income Sources
 
+### 1. Player Transfers
+
 - Sale of developed players to international clubs (South America, Europe, MLS, Middle East)
 - Transfer fees negotiated based on player performance and potential
 - Historical precedent: Uruguay is the world's leading exporter of elite talent per capita
@@ -71,20 +73,38 @@ order: 700
 
 ---
 
-## Revenue Distribution
+## Buyback & Reward Pool
 
-### Annual Distribution Model
+### How Revenue Flows to Token Holders
 
+Instead of direct revenue distributions, the project operates a **Buyback & Reward Pool** that creates sustained demand for the token while rewarding active participants.
 
-### Distribution Breakdown
+### Mechanism
 
-| Category | Percentage | Purpose |
-|----------|-----------|---------|
-| **Token Revenue Pool** | 20-30% | Distributed to token holders annually |
-| **Operations** | 30-40% | Salaries, maintenance, ongoing costs |
-| **Reinvestment** | 30-40% | Facility expansion, new programs, growth |
+1. **20-30% of Net Revenue** is allocated to the Buyback & Reward Pool each period
+2. The Pool **buys tokens from the open market** (DEX), creating consistent buy pressure
+3. A portion of bought tokens is **distributed to active stakers** as rewards
+4. A portion is **permanently burned**, reducing total supply
 
-> The exact percentage distributed to token holders is determined annually by DAO governance vote
+### Why This Model
+
+- **For token price:** Buybacks create real, sustained demand on the open market
+- **For stakers:** Active participants earn additional tokens as rewards
+- **For all holders:** Burns reduce supply, increasing scarcity over time
+- **Transparency:** All buybacks and burns are executed and verifiable on-chain
+
+### Net Revenue Definition
+
+> **Net Revenue** = Gross revenue from all sources (player transfers, training rights, sell-on clauses, TV rights, and competition bonuses) minus direct operational costs (staff salaries, facility maintenance, competition fees, player development costs, and regulatory compliance).
+>
+> **Excluded:** Capital expenditures funded from the initial raise are not deducted.
+
+### Pool Rules
+
+- **Minimum threshold:** Pool does not activate if Net Revenue < USD 100,000 in the period
+- **Negative periods:** No debt accumulation. The Pool simply does not operate that period.
+- **Audit:** Annual independent review, results published on-chain
+- **Percentage decision:** Set by the founding team during early phases, with community advisory input. Full community governance over the percentage is activated at a later milestone.
 
 ---
 
@@ -92,18 +112,20 @@ order: 700
 
 ### Year 1-2: Infrastructure Phase (AUF Divisional D/C)
 - **Primary Focus:** Construction and team formation
-- **Revenue:** Facility rental + early local partnerships
+- **Revenue:** Minimal (early local partnerships)
 - **TV Rights:** Minimal (Divisional C/D levels)
+- **Buyback Pool:** Not yet active
 
 ### Year 2-4: Professional Ascension (AUF Divisional B)
 - **Primary Focus:** Promotion to professional ranks
 - **Revenue:** ~USD 800k (TV Rights) + Transfer Rights
 - **Milestone:** First professional player exports
+- **Buyback Pool:** First activation expected
 
 ### Year 4-6: Elite Competition (AUF Divisional A)
 - **Primary Focus:** Domestic stability and CONMEBOL qualification
 - **Revenue:** ~USD 2M (TV Rights) + Player Transfers + CONMEBOL bonuses
-- **Milestone:** Operational self-sustainability and initial holder distributions
+- **Milestone:** Operational self-sustainability and sustained buyback activity
 
 ---
 
@@ -113,8 +135,8 @@ order: 700
 We do **not** provide specific revenue projections due to the variable nature of player transfers and market conditions. Success depends on:
 - Quality of player development
 - Market demand for talent
-- Successful club partnerships
 - Execution of business strategy
+- Competitive performance in AUF
 !!!
 
 ### Success Factors
@@ -123,6 +145,7 @@ We do **not** provide specific revenue projections due to the variable nature of
 - **Professional Infrastructure:** Modern facilities attract better talent
 - **Experienced Team:** AUF-certified and UEFA-certified coaches and international experience
 - **Strategic Location:** Access to South American and European markets
+- **Extended Runway:** 7+ years of operations funded, no forced decisions
 
 ---
 
@@ -133,7 +156,7 @@ We do **not** provide specific revenue projections due to the variable nature of
 - Portfolio approach to player development
 
 ### Conservative Financial Planning
-- 5-year operational runway secured
+- 7+ year operational runway secured
 - No forced sales due to cash pressure
 - Strategic decision-making over short-term gains
 
@@ -145,5 +168,5 @@ We do **not** provide specific revenue projections due to the variable nature of
 ---
 
 !!!info Transparency Commitment
-All revenue and distributions will be tracked on-chain and reported to the community regularly. Token holders will have full visibility into project finances.
+All revenue, buybacks, and burns will be tracked on-chain and reported to the community regularly. Token holders will have full visibility into project finances through the public dashboard.
 !!!
