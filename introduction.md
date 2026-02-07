@@ -63,6 +63,8 @@ The project already has:
 
 ### Capital Allocation
 
+![Use of Funds](static/use_of_funds.png)
+
 | Category | Amount | Purpose |
 |----------|--------|---------|
 | **Sports City Construction** | USD 1,500,000 | Training fields, gym, performance center, margin for overruns |

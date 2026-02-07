@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2026-02-07T10:16:34Z",
+  "created": "2026-02-07T10:51:17Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -84,6 +84,9 @@
       "old": true
     },
     {
+      "path": "static/funding_rounds.png"
+    },
+    {
       "path": "static/land_after.jpg"
     },
     {
@@ -93,7 +96,17 @@
       "path": "static/logo.png"
     },
     {
-      "path": "static/s.jpg"
+      "path": "static/s.jpg",
+      "old": true
+    },
+    {
+      "path": "static/token_distribution.png"
+    },
+    {
+      "path": "static/use_of_funds.png"
+    },
+    {
+      "path": "static/vesting_schedule.png"
     },
     {
       "path": "team/index.html"

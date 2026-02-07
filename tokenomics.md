@@ -12,12 +12,14 @@ order: 800
 
 ### Distribution
 
+![Token Distribution](static/token_distribution.png)
+
 | Category | Allocation | Tokens | Notes |
 |----------|-----------|--------|-------|
 | **For Sale** | 52% | 52,000,000 | Distributed across 3 funding rounds |
-| **Team** | 18% | 18,000,000 | Founders and core team, longest vesting |
+| **Team** | 20% | 20,000,000 | Founders and core team, longest vesting |
 | **Ecosystem & Liquidity** | 12% | 12,000,000 | DEX liquidity, future CEX, staking rewards, partnerships |
-| **Advisors & Sales** | 8% | 8,000,000 | Strategic advisors, KOLs, sales agents, commissions |
+| **Advisors & Sales** | 6% | 6,000,000 | Strategic advisors, KOLs, sales agents, commissions |
 | **Project Reserve** | 5% | 5,000,000 | On-chain strategic reserve for future needs |
 | **Community Rewards** | 5% | 5,000,000 | Staking programs, engagement, holder benefits |
 
@@ -28,6 +30,8 @@ Long-term founder alignment with multi-year vesting tied to operational executio
 ## Funding Rounds
 
 ### Round Structure
+
+![Funding Rounds](static/funding_rounds.png)
 
 | Round | Allocation | Price | Total Raise | Investor Profile |
 |-------|-----------|-------|-------------|-----------------|
@@ -47,10 +51,12 @@ Long-term founder alignment with multi-year vesting tied to operational executio
 
 ### Release & Vesting Schedule
 
+![Vesting Schedule](static/vesting_schedule.png)
+
 | Category | Release Schedule | Total Lock Period |
 |----------|------------------|-------------------|
-| **Team** | 12-month cliff, then linear vesting over 36 months | 48 months |
-| **Advisors & Sales** | 6-month cliff, then linear vesting over 18 months | 24 months |
+| **Team (20%)** | 12-month cliff, then linear vesting over 36 months | 48 months |
+| **Advisors & Sales (6%)** | 6-month cliff, then linear vesting over 18 months | 24 months |
 | **Seed Round** | 10% at TGE, 3-month cliff, then linear over 24 months | 27 months |
 | **Private Round** | 15% at TGE, then linear over 18 months | 18 months |
 | **Public / Launchpad** | 30% at TGE, then linear over 9 months | 9 months |
