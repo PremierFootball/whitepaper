@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/whitepaper">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.823776675524">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.823776775701">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -34,11 +34,11 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../static/logo.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.11.0.823776675524" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.11.0.823776775701" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.823776675524" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.823776775701" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.823776675524" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.823776775701" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -254,19 +254,19 @@
 <li>Supply management</li>
 <li>Burn mechanism</li>
 </ul>
-<p><strong>2. Revenue Distribution Contract</strong></p>
+<p><strong>2. Buyback &amp; Reward Contract</strong></p>
 <ul>
-<li>Annual distribution logic</li>
-<li>Proportional allocation to holders</li>
-<li>Claim mechanism</li>
-<li>Distribution history tracking</li>
+<li>Market buyback execution logic</li>
+<li>Staker reward distribution</li>
+<li>Token burn mechanism</li>
+<li>Period and history tracking</li>
 </ul>
-<p><strong>3. Governance Contract</strong></p>
+<p><strong>3. Governance Contract</strong> <em>(Phase 4+ — Future Development)</em></p>
 <ul>
-<li>Proposal submission</li>
-<li>Voting mechanism</li>
-<li>Quorum and threshold validation</li>
-<li>Execution of approved proposals</li>
+<li>On-chain voting for community governance</li>
+<li>Proposal submission and execution</li>
+<li>Activated after operational milestones are reached</li>
+<li>Team-managed governance during initial phases</li>
 </ul>
 <p><strong>4. Treasury Contract</strong></p>
 <ul>
@@ -299,7 +299,7 @@
 <ul>
 <li>Rust / Anchor framework</li>
 <li>Auditable program architecture</li>
-<li>Upgradeable program model where appropriate</li>
+<li>Token contract: immutable. Buyback, Treasury, and Governance contracts: upgradeable with timelock</li>
 <li>Comprehensive testing and security reviews</li>
 <li>Designed for future multichain compatibility</li>
 </ul>

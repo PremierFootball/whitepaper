@@ -131,7 +131,7 @@ Token sale is restricted in: United States, China, North Korea, Iran, Cuba, and 
 As governance milestones are reached:
 
 1. **Advisory Votes** — Participate in non-binding community polls
-2. **Binding Votes** — Vote on Revenue Pool percentages and treasury allocation
+2. **Binding Votes** — Vote on Buyback & Reward Pool percentages and treasury allocation
 3. **Delegate Voting** — Delegate your voting power to trusted community members
 4. **Submit Proposals** — Create proposals for community consideration
 

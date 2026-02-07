@@ -51,17 +51,17 @@ order: 600
 - Supply management
 - Burn mechanism
 
-**2. Revenue Distribution Contract**
-- Annual distribution logic
-- Proportional allocation to holders
-- Claim mechanism
-- Distribution history tracking
+**2. Buyback & Reward Contract**
+- Market buyback execution logic
+- Staker reward distribution
+- Token burn mechanism
+- Period and history tracking
 
-**3. Governance Contract**
-- Proposal submission
-- Voting mechanism
-- Quorum and threshold validation
-- Execution of approved proposals
+**3. Governance Contract** *(Phase 4+ — Future Development)*
+- On-chain voting for community governance
+- Proposal submission and execution
+- Activated after operational milestones are reached
+- Team-managed governance during initial phases
 
 **4. Treasury Contract**
 - Multisig wallet control
@@ -84,7 +84,7 @@ order: 600
 **Smart Contracts:**
 - Rust / Anchor framework
 - Auditable program architecture
-- Upgradeable program model where appropriate
+- Token contract: immutable. Buyback, Treasury, and Governance contracts: upgradeable with timelock
 - Comprehensive testing and security reviews
 - Designed for future multichain compatibility
 
