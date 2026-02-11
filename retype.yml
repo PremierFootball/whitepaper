@@ -1,5 +1,8 @@
 input: .
 output: docs
+exclude:
+  - "public reports/"
+  - "reports/"
 url: https://premierfootball.github.io/whitepaper/
 favicon: static/logo.png
 branding:
