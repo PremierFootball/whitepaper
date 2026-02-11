@@ -18,6 +18,5 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# Internal reports
+# Internal reports (private)
 reports/
-public reports/
