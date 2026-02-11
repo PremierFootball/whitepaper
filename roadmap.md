@@ -58,7 +58,7 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Technology and equipment installation
 - [ ] Staff hiring (coaches, analysts, operations)
 - [ ] Partnership agreements with 3-5 local clubs
-- [ ] Milestone token burn: construction complete (1M tokens)
+- [ ] Milestone token burn: construction complete (2M tokens)
 
 ### Success Criteria
 - Facility construction completed
@@ -83,8 +83,7 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Training programs launched
 - [ ] Performance tracking systems operational
 - [ ] Community advisory votes activated (non-binding)
-- [ ] Milestone token burn: first player signed (500k tokens)
-- [ ] Milestone token burn: first competitive match (500k tokens)
+- [ ] Milestone token burn: promotion to Divisional B (500k tokens)
 
 ### Success Criteria
 - Facility operational
@@ -110,7 +109,7 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Operational costs covered by revenue
 - [ ] Buyback & Burn Pool first activation
 - [ ] Binding community governance on Pool percentage
-- [ ] Milestone token burn: first transfer (2M tokens)
+- [ ] Milestone token burn: first transfer (1M tokens)
 - [ ] Facility expansion planning
 
 ### Success Criteria
@@ -136,6 +135,8 @@ We prioritize **execution over hype** and **substance over speed**.
 - [ ] Multi-cohort player pipeline operational
 - [ ] Consistent buyback and burn activity
 - [ ] Full strategic governance activated
+- [ ] Milestone token burn: promotion to Divisional A (1M tokens)
+- [ ] Milestone token burn: first international cup qualification (1.5M tokens)
 - [ ] Potential for additional token utilities
 
 ### Success Criteria

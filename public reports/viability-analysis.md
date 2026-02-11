@@ -594,7 +594,7 @@ El principal desafío no es "si funciona" sino "si se ejecuta correctamente y a 
 #### Milestones de esta fase
 
 - [ ] **50% Construction Complete** → Tranche release USD 500k
-- [ ] **Construction Complete** → Tranche release USD 400k + **TOKEN BURN: 1M tokens**
+- [ ] **Construction Complete** → Tranche release USD 400k + **TOKEN BURN: 2M tokens**
 - [ ] **Anunciar cada milestone públicamente** → engagement para holders
 
 ---
@@ -613,7 +613,7 @@ El principal desafío no es "si funciona" sino "si se ejecuta correctamente y a 
 - [ ] **Primera cohorte de jugadores entrenando**
   - 20-30 jugadores
   - Programa de desarrollo formalizado
-  - **TOKEN BURN: 500k tokens (first player signed)**
+  - **TOKEN BURN: 500k tokens (promotion to Divisional B)**
 
 - [ ] **Activar community advisory votes**
   - Polls no-vinculantes sobre dirección estratégica
@@ -622,7 +622,7 @@ El principal desafío no es "si funciona" sino "si se ejecuta correctamente y a 
 #### Operación continua
 
 - [ ] **Primera temporada competitiva**
-  - **TOKEN BURN: 500k tokens (first competitive match)**
+  - **TOKEN BURN: 1M tokens (promotion to Divisional A)**
   - Updates de resultados, highlights, content
 
 - [ ] **Performance tracking activo**
@@ -644,7 +644,7 @@ El principal desafío no es "si funciona" sino "si se ejecuta correctamente y a 
 #### Revenue Activation
 
 - [ ] **Primeras transferencias de jugadores**
-  - **TOKEN BURN: 2M tokens (first transfer)**
+  - **TOKEN BURN: 1M tokens (first transfer)**
   - Reportar montos on-chain
   - Activar Buyback & Burn Pool cuando Net Revenue > $100k
 

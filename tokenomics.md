@@ -154,11 +154,12 @@ At each major project milestone, tokens from the Ecosystem reserve are permanent
 
 | Milestone | Burn Amount |
 |-----------|------------|
-| Sports city construction complete | 1,000,000 tokens |
-| First professional player signed | 500,000 tokens |
-| First competitive match | 500,000 tokens |
-| First player transfer | 2,000,000 tokens |
-| **Total potential burn** | **4,000,000 tokens** (33% of Ecosystem) |
+| Sports city construction complete | 2,000,000 tokens |
+| First player transfer | 1,000,000 tokens |
+| Promotion to Divisional B | 500,000 tokens |
+| Promotion to Divisional A | 1,000,000 tokens |
+| First international cup qualification | 1,500,000 tokens |
+| **Total potential burn** | **6,000,000 tokens** (50% of Ecosystem) |
 
 Burns reduce total supply, rewarding all holders with increased scarcity.
 
