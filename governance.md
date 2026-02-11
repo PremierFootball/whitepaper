@@ -71,13 +71,13 @@ Governance rights are activated based on real milestones, not timelines. This en
 | Milestone | Governance Feature Activated |
 |-----------|------------------------------|
 | **Facility operational** | Community advisory votes (non-binding) on strategic direction |
-| **First player transfer** | Binding community votes on Buyback & Reward Pool percentage (20-30%) |
+| **First player transfer** | Binding community votes on Buyback & Burn Pool percentage (20-30%) |
 | **Sustained positive Net Revenue** | Binding votes on treasury allocation for expansion and new initiatives |
 | **>50% of team tokens vested** | Full strategic governance: community votes on major partnerships, expansion, and treasury strategy |
 
 ### What the Community Will Eventually Control
 
-- Buyback & Reward Pool percentage (within 20-30% range)
+- Buyback & Burn Pool percentage (within 20-30% range)
 - Treasury allocation for expansion projects
 - Major partnership agreements
 - Strategic direction of the project
@@ -131,7 +131,7 @@ Token sale is restricted in: United States, China, North Korea, Iran, Cuba, and 
 As governance milestones are reached:
 
 1. **Advisory Votes** — Participate in non-binding community polls
-2. **Binding Votes** — Vote on Buyback & Reward Pool percentages and treasury allocation
+2. **Binding Votes** — Vote on Buyback & Burn Pool percentages and treasury allocation
 3. **Delegate Voting** — Delegate your voting power to trusted community members
 4. **Submit Proposals** — Create proposals for community consideration
 

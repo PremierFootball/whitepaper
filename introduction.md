@@ -29,8 +29,7 @@ The club operates as a **tokenized entity**, allowing investors to participate i
 Token holders will have the right to:
 
 ### Economic Rights
-- Benefit from the **Buyback & Reward Pool** (20-30% of Net Revenue funds token buybacks and staker rewards)
-- Participate in staking programs from Day 1
+- Benefit from the **Buyback & Burn Pool** (20-30% of Net Revenue funds token buybacks and burns)
 - No guaranteed returns or minimum price
 
 ### Future Governance Rights

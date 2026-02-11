@@ -1,6 +1,6 @@
 {
   "version": "3.11.0",
-  "created": "2026-02-07T10:52:57Z",
+  "created": "2026-02-11T15:25:52Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -18,8 +18,14 @@
       "path": "introduction/index.html"
     },
     {
+      "path": "public-reports/viability-analysis/index.html"
+    },
+    {
       "path": "reports/audit/index.html",
       "old": true
+    },
+    {
+      "path": "reports/founders-compensation/index.html"
     },
     {
       "path": "reports/proposals/index.html",

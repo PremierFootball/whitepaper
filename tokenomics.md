@@ -18,10 +18,10 @@ order: 800
 |----------|-----------|--------|-------|
 | **For Sale** | 52% | 52,000,000 | Distributed across 3 funding rounds |
 | **Team** | 20% | 20,000,000 | Founders and core team, longest vesting |
-| **Ecosystem & Liquidity** | 12% | 12,000,000 | DEX liquidity, future CEX, staking rewards, partnerships |
+| **Ecosystem & Liquidity** | 12% | 12,000,000 | DEX liquidity, future CEX, partnerships |
 | **Advisors & Sales** | 6% | 6,000,000 | Strategic advisors, KOLs, sales agents, commissions |
 | **Project Reserve** | 5% | 5,000,000 | On-chain strategic reserve for future needs |
-| **Community Rewards** | 5% | 5,000,000 | Staking programs, engagement, holder benefits |
+| **Community Rewards** | 5% | 5,000,000 | Engagement programs, holder benefits |
 
 Long-term founder alignment with multi-year vesting tied to operational execution. Team vesting is the longest of all categories.
 
@@ -62,7 +62,7 @@ Long-term founder alignment with multi-year vesting tied to operational executio
 | **Public / Launchpad** | 30% at TGE, then linear over 9 months | 9 months |
 | **Ecosystem & Liquidity** | Milestone-based, managed by team | Ongoing |
 | **Project Reserve** | Locked, released by team decision with community advisory input | Ongoing |
-| **Community Rewards** | Distributed through staking and engagement programs | Ongoing |
+| **Community Rewards** | Distributed through engagement programs and holder benefits | Ongoing |
 
 > The founding team has the **longest vesting of all categories** (48 months). No buyer is locked longer than the team.
 
@@ -81,10 +81,10 @@ Initial market cap at TGE: ~USD 1,380,000
 
 ## Token Utility
 
-### 1. Buyback & Reward Participation
-- Holders benefit from the **Buyback & Reward Pool**
+### 1. Buyback & Burn Participation
+- Holders benefit from the **Buyback & Burn Pool**
 - 20-30% of Net Revenue funds token buybacks from the open market
-- Bought tokens are distributed to **active stakers** and partially **burned**
+- Bought tokens are **burned**, permanently reducing supply
 - Creates sustained buy pressure and reduces circulating supply over time
 
 ### 2. Future Governance Rights
@@ -94,18 +94,13 @@ Initial market cap at TGE: ~USD 1,380,000
 - Full strategic governance: activated after facility is operational and revenue is generated
 - **No control** over operational sports decisions at any stage
 
-### 3. Staking & Rewards
-- Stake tokens to earn rewards from the Community Rewards pool
-- Stakers receive priority in Buyback & Reward distributions
-- Staking available from Day 1 of TGE
-
-### 4. Holder Benefits
+### 3. Holder Benefits
 - Exclusive content access (training sessions, behind the scenes)
 - Sports city visits and match tickets
 - NFT commemoratives for milestone events
 - Early access to future products or rounds
 
-### 5. Transferability
+### 4. Transferability
 - Trade on secondary markets
 - DEX liquidity pool (TOKEN / USDT)
 - Potential CEX listings in the future
@@ -122,8 +117,7 @@ Initial market cap at TGE: ~USD 1,380,000
 
 ### Ongoing Liquidity
 
-- **Buybacks** from the Buyback & Reward Pool create sustained demand
-- **Staking Programs** incentivize long-term holding, reducing circulating supply
+- **Buybacks** from the Buyback & Burn Pool create sustained demand
 - Gradual liquidity expansion as trading volume grows
 - Market-driven price discovery
 
@@ -131,14 +125,13 @@ Initial market cap at TGE: ~USD 1,380,000
 
 ---
 
-## Buyback & Reward Pool
+## Buyback & Burn Pool
 
 ### How It Works
 
-1. **20-30% of Net Revenue** is allocated to the Buyback & Reward Pool each period
+1. **20-30% of Net Revenue** is allocated to the Buyback & Burn Pool each period
 2. The Pool **buys tokens from the open market** (DEX), creating buy pressure
-3. A portion of bought tokens is **distributed to active stakers** as rewards
-4. A portion is **burned**, permanently reducing supply
+3. Bought tokens are **burned**, permanently reducing total supply
 
 ### Net Revenue Definition
 
@@ -188,11 +181,10 @@ Burns reduce total supply, rewarding all holders with increased scarcity.
 - Successful fundraising completion
 - Sports city construction progress
 - Milestone token burns
-- Staking rewards from Day 1
 
 ### Medium-term
 - First player transfers
-- Buyback & Reward Pool activation
+- Buyback & Burn Pool activation
 - Revenue generation begins
 
 ### Long-term

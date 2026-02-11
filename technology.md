@@ -51,9 +51,8 @@ order: 600
 - Supply management
 - Burn mechanism
 
-**2. Buyback & Reward Contract**
+**2. Buyback & Burn Contract**
 - Market buyback execution logic
-- Staker reward distribution
 - Token burn mechanism
 - Period and history tracking
 

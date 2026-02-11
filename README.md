@@ -15,7 +15,7 @@ This project proposes the creation of a **tokenized professional football club**
 The initiative combines **real assets** (player contracts and monetizable usage rights over sports facilities), **professional club operations**, and a **transparent crypto structure**, aimed at investors seeking exposure to Real World Assets (RWA) with high upside potential through football.
 
 **Fundraising Goal:** USD 5,000,000
-**Purpose:** Establish and operate a professional football club with tokenized ownership and a Buyback & Reward model
+**Purpose:** Establish and operate a professional football club with tokenized ownership and a Buyback & Burn model
 
 ---
 

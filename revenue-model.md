@@ -73,23 +73,21 @@ order: 700
 
 ---
 
-## Buyback & Reward Pool
+## Buyback & Burn Pool
 
 ### How Revenue Flows to Token Holders
 
-Instead of direct revenue distributions, the project operates a **Buyback & Reward Pool** that creates sustained demand for the token while rewarding active participants.
+Instead of direct revenue distributions, the project operates a **Buyback & Burn Pool** that creates sustained demand for the token while reducing circulating supply.
 
 ### Mechanism
 
-1. **20-30% of Net Revenue** is allocated to the Buyback & Reward Pool each period
+1. **20-30% of Net Revenue** is allocated to the Buyback & Burn Pool each period
 2. The Pool **buys tokens from the open market** (DEX), creating consistent buy pressure
-3. A portion of bought tokens is **distributed to active stakers** as rewards
-4. A portion is **permanently burned**, reducing total supply
+3. Bought tokens are **permanently burned**, reducing total supply
 
 ### Why This Model
 
 - **For token price:** Buybacks create real, sustained demand on the open market
-- **For stakers:** Active participants earn additional tokens as rewards
 - **For all holders:** Burns reduce supply, increasing scarcity over time
 - **Transparency:** All buybacks and burns are executed and verifiable on-chain
 

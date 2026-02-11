@@ -75,7 +75,7 @@ We prioritize **execution over hype** and **substance over speed**.
 - Open facility for operations
 - Begin player development programs
 - Establish training methodologies
-- Activate staking programs and community engagement
+- Activate community engagement programs
 
 ### Milestones
 - [ ] Facility grand opening
@@ -101,14 +101,14 @@ We prioritize **execution over hype** and **substance over speed**.
 - Execute first player transfers
 - Scale player development operations
 - Achieve operational self-sustainability
-- Activate Buyback & Reward Pool
+- Activate Buyback & Burn Pool
 
 ### Milestones
 - [ ] First player transfers completed
 - [ ] Training rights revenue activated
 - [ ] Sell-on clauses negotiated
 - [ ] Operational costs covered by revenue
-- [ ] Buyback & Reward Pool first activation
+- [ ] Buyback & Burn Pool first activation
 - [ ] Binding community governance on Pool percentage
 - [ ] Milestone token burn: first transfer (2M tokens)
 - [ ] Facility expansion planning
@@ -116,7 +116,7 @@ We prioritize **execution over hype** and **substance over speed**.
 ### Success Criteria
 - Player transfers generating revenue
 - Operational self-sustainability achieved
-- Buyback & Reward Pool active
+- Buyback & Burn Pool active
 
 ---
 
