@@ -8,10 +8,10 @@ order: 400
 
 ## Overview
 
-The project is led by a multidisciplinary team of professionals with **UEFA certifications**, **Masters in Engineering**, and **international experience** as players, coaches, and business developers.
+The project is led by a multidisciplinary team of professionals with **AUF Pro and UEFA certifications**, **Masters in Engineering**, and **international experience** as players, coaches, and business developers.
 
 Our team combines:
-- **Technical Expertise** - UEFA certified coaches and Master’s in Engineering
+- **Technical Expertise** - AUF Pro and UEFA certified coaches, Master's in Engineering
 - **Professional Development** - Business developers and specialized psychologists
 - **International Experience** - Professional careers in multiple countries
 - **Local Knowledge** - Deep understanding of Uruguayan football ecosystem
@@ -24,6 +24,7 @@ Our team combines:
 
 **UEFA Certified Coaches**
 
+- **AUF Pro License** — highest coaching certification in Uruguay, authorized to manage in Divisional A (first division)
 - UEFA A and B certifications
 - Experience in player development across age groups
 - International coaching experience
@@ -69,6 +70,7 @@ Our team combines:
 
 ### 2. Technical Expertise
 
+- **First Division Ready:** AUF Pro licensed coach can manage at the highest level from day one
 - **Player Development:** Proven methodologies for talent cultivation
 - **Performance Analysis:** Data-driven approach to player improvement
 - **Modern Training:** Contemporary techniques aligned with European standards

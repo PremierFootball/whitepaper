@@ -37,7 +37,7 @@ However, traditional football clubs lack transparency and accessible investment 
 The project starts with:
 
 - **Land available** for sports city development
-- **Founding team** with UEFA certifications, international experience, and a multidisciplinary background driven by a deep passion for what we do.
+- **Founding team** with AUF Pro and UEFA certifications, international experience, and a multidisciplinary background driven by a deep passion for what we do.
 - **Pathway to professional competition**, with ongoing discussions with multiple clubs interested in joining the project, from which one strategic partner will be selected.
 
 ||| Current Land
