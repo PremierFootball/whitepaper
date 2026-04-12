@@ -1,12 +1,16 @@
 {
   "version": "3.11.0",
-  "created": "2026-02-11T15:53:17Z",
+  "created": "2026-04-12T11:03:43Z",
   "files": [
     {
       "path": ".nojekyll"
     },
     {
       "path": "404.html"
+    },
+    {
+      "path": "claude/index.html",
+      "old": true
     },
     {
       "path": "governance/index.html"
@@ -49,6 +53,10 @@
     },
     {
       "path": "resources/js/mermaid.js",
+      "old": true
+    },
+    {
+      "path": "resources/js/prism.js",
       "old": true
     },
     {
@@ -125,6 +133,97 @@
     },
     {
       "path": "tokenomics/index.html"
+    },
+    {
+      "path": "vercel.json"
+    },
+    {
+      "path": "web/agents/index.html",
+      "old": true
+    },
+    {
+      "path": "web/claude/index.html",
+      "old": true
+    },
+    {
+      "path": "web/index.html",
+      "old": true
+    },
+    {
+      "path": "web/package-lock.json",
+      "old": true
+    },
+    {
+      "path": "web/package.json",
+      "old": true
+    },
+    {
+      "path": "web/public/file.svg",
+      "old": true
+    },
+    {
+      "path": "web/public/funding_rounds.png",
+      "old": true
+    },
+    {
+      "path": "web/public/globe.svg",
+      "old": true
+    },
+    {
+      "path": "web/public/land_after.jpg",
+      "old": true
+    },
+    {
+      "path": "web/public/land.png",
+      "old": true
+    },
+    {
+      "path": "web/public/logo.png",
+      "old": true
+    },
+    {
+      "path": "web/public/next.svg",
+      "old": true
+    },
+    {
+      "path": "web/public/token_distribution.png",
+      "old": true
+    },
+    {
+      "path": "web/public/use_of_funds.png",
+      "old": true
+    },
+    {
+      "path": "web/public/vercel.svg",
+      "old": true
+    },
+    {
+      "path": "web/public/vesting_schedule.png",
+      "old": true
+    },
+    {
+      "path": "web/public/window.svg",
+      "old": true
+    },
+    {
+      "path": "web/src/app/globals.css",
+      "old": true
+    },
+    {
+      "path": "web/src/messages/en.json",
+      "old": true
+    },
+    {
+      "path": "web/src/messages/es.json",
+      "old": true
+    },
+    {
+      "path": "web/src/messages/pt.json",
+      "old": true
+    },
+    {
+      "path": "web/tsconfig.json",
+      "old": true
     }
   ]
 }
