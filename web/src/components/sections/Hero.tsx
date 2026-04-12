@@ -133,9 +133,20 @@ export default function Hero() {
           variants={fadeUp}
           initial="hidden"
           animate="show"
-          className="text-base sm:text-lg text-muted max-w-2xl mx-auto mb-10 leading-relaxed"
+          className="text-xl sm:text-2xl font-bold text-primary max-w-2xl mx-auto mb-3"
         >
           {t.subheadline}
+        </motion.p>
+
+        {/* Sub-description */}
+        <motion.p
+          custom={3.5}
+          variants={fadeUp}
+          initial="hidden"
+          animate="show"
+          className="text-sm sm:text-base text-muted max-w-xl mx-auto mb-10 leading-relaxed"
+        >
+          {t.subdescription}
         </motion.p>
 
         {/* CTAs */}
