@@ -16,7 +16,7 @@ color:
   theme: dark
 links:
 - text: Website
-  link: https://premierfootball.github.io/web/
+  link: https://whitepaper-web-lovat.vercel.app/
 - text: whitepaper
   link: /
 meta:
