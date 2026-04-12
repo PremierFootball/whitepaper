@@ -42,6 +42,23 @@ Long-term founder alignment with multi-year vesting tied to operational executio
 > **Total Fundraising Target:** ~USD 5,000,000
 > **Fully Diluted Valuation at Listing:** USD 15,000,000
 
+### Per-Round Soft Cap & Investor Refund Policy
+
+Each funding round has a **soft cap equal to its full target amount** and a **6-month deadline** from the date it opens. If a round does not reach its soft cap within that window, the smart contract automatically enables every investor in that round to reclaim their full contribution.
+
+| Round | Soft Cap | Deadline | If Not Met |
+|-------|----------|----------|------------|
+| **Seed** | USD 850,000 | 6 months from opening | Full refund to contributor wallets |
+| **Private** | USD 2,000,000 | 6 months from Seed close | Full refund to contributor wallets |
+| **Public / Launchpad** | USD 2,250,000 | Set by launchpad | Full refund per launchpad policy |
+
+**Key principles:**
+- The team cannot access proceeds from an underfunded round under any circumstances.
+- Refunds are automatic and permissionless — investors claim directly from the contract with no team intervention required.
+- Each round is independent: a successful Seed does not obligate the Private round to proceed if it fails to reach its soft cap.
+
+> Smart contract implementation of this mechanism is pending security audit and deployment.
+
 ### Round Step-ups
 
 | Transition | Multiplier | Rationale |
