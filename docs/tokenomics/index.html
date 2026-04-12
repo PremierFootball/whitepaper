@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/whitepaper">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.824140394793">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.829307021142">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -34,11 +34,11 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../static/logo.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.11.0.824140394793" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.11.0.829307021142" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.824140394793" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.11.0.829307021142" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.824140394793" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.11.0.829307021142" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -309,6 +309,54 @@
 <blockquote>
 <p><strong>Total Fundraising Target:</strong> ~USD 5,000,000
 <strong>Fully Diluted Valuation at Listing:</strong> USD 15,000,000</p>
+</blockquote>
+<doc-anchor-target id="per-round-soft-cap--investor-refund-policy">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#per-round-soft-cap--investor-refund-policy">#</doc-anchor-trigger>
+        <span>Per-Round Soft Cap &amp; Investor Refund Policy</span>
+    </h3>
+</doc-anchor-target>
+<p>Each funding round has a <strong>soft cap equal to its full target amount</strong> and a <strong>6-month deadline</strong> from the date it opens. If a round does not reach its soft cap within that window, the smart contract automatically enables every investor in that round to reclaim their full contribution.</p>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Round</th>
+<th>Soft Cap</th>
+<th>Deadline</th>
+<th>If Not Met</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Seed</strong></td>
+<td>USD 850,000</td>
+<td>6 months from opening</td>
+<td>Full refund to contributor wallets</td>
+</tr>
+<tr>
+<td><strong>Private</strong></td>
+<td>USD 2,000,000</td>
+<td>6 months from Seed close</td>
+<td>Full refund to contributor wallets</td>
+</tr>
+<tr>
+<td><strong>Public / Launchpad</strong></td>
+<td>USD 2,250,000</td>
+<td>Set by launchpad</td>
+<td>Full refund per launchpad policy</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Key principles:</strong></p>
+<ul>
+<li>The team cannot access proceeds from an underfunded round under any circumstances.</li>
+<li>Refunds are automatic and permissionless — investors claim directly from the contract with no team intervention required.</li>
+<li>Each round is independent: a successful Seed does not obligate the Private round to proceed if it fails to reach its soft cap.</li>
+</ul>
+<blockquote>
+<p>Smart contract implementation of this mechanism is pending security audit and deployment.</p>
 </blockquote>
 <doc-anchor-target id="round-step-ups">
     <h3>

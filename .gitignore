@@ -20,3 +20,7 @@ npm-debug.log*
 
 # Internal reports (private)
 reports/
+
+# Retype pages generated from internal files (should not be published)
+docs/claude/
+docs/vercel.json

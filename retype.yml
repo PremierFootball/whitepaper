@@ -2,6 +2,10 @@ input: .
 output: docs
 exclude:
   - "reports/"
+  - "web/"
+  - ".claude"
+  - ".claude/**"
+  - "CLAUDE.md"
 url: https://premierfootball.github.io/whitepaper/
 favicon: static/logo.png
 branding:
