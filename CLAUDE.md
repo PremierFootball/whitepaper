@@ -23,7 +23,7 @@ Target audience: crypto institutional investors, retail Solana users, football i
 | Public round | USD 2,250,000 @ $0.15/token |
 | Buyback & Burn pool | 20–30% of Net Revenue |
 | Circulating supply at TGE | ~9.2% |
-| Operational runway | 7+ years |
+| Operational runway | 10+ years |
 
 ---
 

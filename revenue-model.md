@@ -143,7 +143,7 @@ We do **not** provide specific revenue projections due to the variable nature of
 - **Professional Infrastructure:** Modern facilities attract better talent
 - **Experienced Team:** AUF-certified and UEFA-certified coaches and international experience
 - **Strategic Location:** Access to South American and European markets
-- **Extended Runway:** 7+ years of operations funded, no forced decisions
+- **Extended Runway:** 10+ years of operations funded, no forced decisions
 
 ---
 
@@ -154,7 +154,7 @@ We do **not** provide specific revenue projections due to the variable nature of
 - Portfolio approach to player development
 
 ### Conservative Financial Planning
-- 7+ year operational runway secured
+- 10+ year operational runway secured
 - No forced sales due to cash pressure
 - Strategic decision-making over short-term gains
 

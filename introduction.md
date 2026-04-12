@@ -76,7 +76,7 @@ The project already has:
 
 > **Total:** USD 5,000,000
 
-This allocation provides a **7+ year operational runway**, significantly reducing pressure on early revenue generation and allowing the team to make long-term sporting decisions without financial urgency.
+This allocation provides a **10+ year operational runway**, significantly reducing pressure on early revenue generation and allowing the team to make long-term sporting decisions without financial urgency.
 
 ---
 
